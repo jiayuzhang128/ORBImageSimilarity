@@ -9,31 +9,31 @@ parser.add_argument(
                     '-s', '--samplePath',
                     type=str,
                     required=True,
-                    default='/home/jiayu/Desktop/project/imageSimilarity/data/sample/sample4.png',
-                    help='Location of sample image using absolute path. ie. C:/user/Desktop/sample/sample.png')
+                    help='Location of sample image using absolute path. ie. C:\\user\\Desktop\\sample\\sample.png')
 
 parser.add_argument(
                     '-q', '--queryPath',
                     type=str,
                     required=True,
-                    default='/home/jiayu/Desktop/project/imageSimilarity/data/query/',
-                    help='Location of query image using absolute path. ie. C:/user/Desktop/query/')
+                    help='Location of query image using absolute path. ie. C:\\user\\Desktop\\query\\')
 
 parser.add_argument(
                     '-o', '--outputPath',
                     type=str,
                     required=True,
-                    default="/home/jiayu/Desktop/project/imageSimilarity/output/",
-                    help='Location of query image using absolute path. ie. C:/user/Desktop/output/')
+                    help='Location of query image using absolute path. ie. C:\\user\\Desktop\\output\\')
 
 parser.add_argument(
                     '-i', '--isShow',
                     type=bool,
                     required=False,
                     default=False,
-                    help='Show matches or not.')
+                    help='Show results or not. Default: Flase')
 
 args = parser.parse_args()
+assert args.samplePath.split(".")[-1] in ['png', 'bmp', 'jpg', 'jpeg', 'tiff']
+assert args.queryPath[-1] == "\\"
+assert args.outputPath[-1] == "\\"
 
 # 读取图片
 sampleImageColorOrigin, sampleImageColorResize, sampleImageGray, queryImagesColorOrigin, queryImagesColorResize, queryImagesGray, numOfQuery, queryFileNames = imageLoad(args.samplePath, args.queryPath)
@@ -66,12 +66,12 @@ outputPath = args.outputPath
 makeDirs(outputPath)
 
 # 保存缩放图片
-resizePath = outputPath + "resize/"
-sampleImageName = args.samplePath.split("/")[-1].split('.')[-2]
+resizePath = outputPath + "resize\\"
+sampleImageName = args.samplePath.split("\\")[-1].split('.')[-2]
 cv2.imwrite(resizePath + sampleImageName + "resize" + ".png", cv2.cvtColor(sampleImageColorResize, cv2.COLOR_RGB2BGR))
 queryImageNames = []
 for i in range(numOfQuery):
-    queryName = queryFileNames[i].split('/')[-1].split('.')[-2]
+    queryName = queryFileNames[i].split('\\')[-1].split('.')[-2]
     cv2.imwrite(resizePath + queryName + "Resize" + ".png", cv2.cvtColor(queryImagesColorResize[i],cv2.COLOR_RGB2BGR))
     queryImageNames.append(queryName)
 
@@ -102,4 +102,6 @@ for i in range(numOfQuery):
                                 descriptors=descriptorsQuery[i],
                                 dName="descriptors" + queryImageNames[i],
                                 outputPath=outputPath)
+
+print("Estimate similarity done!")
     

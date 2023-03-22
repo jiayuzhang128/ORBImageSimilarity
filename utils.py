@@ -120,6 +120,7 @@ def plotSampleAndQuery(images, simlilarity, numOfQuery, outputPath, figureName, 
 	row = math.ceil(numOfQuery/col)
 	figure, ax = plt.subplots(row, col)
 	figure.canvas.set_window_title(figureName)
+	figure.suptitle(figureName)
 	for index, (img, sim)in enumerate(imagesWithSimilarity):
 		axTemp = ax[int(index/col)][index%col]
 		axTemp.set_title('Similarity: %.2f' %(sim*100) + r"%", fontsize=8)
@@ -152,8 +153,8 @@ def saveKeypointsAndDescriptors(keypoints,
                                 outputPath):
 	
 	# 文件名
-	filename1 = outputPath + 'keypoints/' + kName + '.txt'
-	filename2 = outputPath + 'descriptors/' + dName + '.txt'
+	filename1 = outputPath + 'keypoints\\' + kName + '.txt'
+	filename2 = outputPath + 'descriptors\\' + dName + '.txt'
 
 	# 删除一存在文件
 	if os.path.exists(filename1):

@@ -106,5 +106,4 @@ python .\main.py -s .\data\sample\sample4.png -q .\data\query\ -o .\output\
 
 ## 感谢
 
-本项目参考了[SIFTImageSimilarity](https://github.com/adumrewal/SIFTImageSimilarity)和[
-Feature-Detection-and-Matching](https://github.com/whoisraibolt/Feature-Detection-and-Matching)感谢他们优秀的工作。
+本项目参考了[SIFTImageSimilarity](https://github.com/adumrewal/SIFTImageSimilarity)和[Feature-Detection-and-Matching](https://github.com/whoisraibolt/Feature-Detection-and-Matching)感谢他们优秀的工作。

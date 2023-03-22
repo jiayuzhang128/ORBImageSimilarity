@@ -1,0 +1,4000 @@
+< cv2.KeyPoint 0x7f7da1edd690>   -->index: 0 
+	pt: (285.0, 263.0)
+ 	size: 31.0
+ 	angle: 188.41265869140625
+ 	response: 0.00025719881523400545
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd6c0>   -->index: 1 
+	pt: (715.0, 764.0)
+ 	size: 31.0
+ 	angle: 298.65423583984375
+ 	response: 0.0003910519590135664
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd6f0>   -->index: 2 
+	pt: (276.0, 820.0)
+ 	size: 31.0
+ 	angle: 129.1598358154297
+ 	response: 0.0002767353435046971
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd720>   -->index: 3 
+	pt: (277.0, 823.0)
+ 	size: 31.0
+ 	angle: 146.86264038085938
+ 	response: 0.00030054806848056614
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd750>   -->index: 4 
+	pt: (158.0, 734.0)
+ 	size: 31.0
+ 	angle: 110.21637725830078
+ 	response: 0.00028395032859407365
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd780>   -->index: 5 
+	pt: (159.0, 899.0)
+ 	size: 31.0
+ 	angle: 111.2213363647461
+ 	response: 0.000333385105477646
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd7b0>   -->index: 6 
+	pt: (302.0, 362.0)
+ 	size: 31.0
+ 	angle: 91.99425506591797
+ 	response: 0.000271859229542315
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd7e0>   -->index: 7 
+	pt: (133.0, 903.0)
+ 	size: 31.0
+ 	angle: 10.989768028259277
+ 	response: 0.00029101723339408636
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd810>   -->index: 8 
+	pt: (383.0, 481.0)
+ 	size: 31.0
+ 	angle: 262.74981689453125
+ 	response: 0.0002604480250738561
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd840>   -->index: 9 
+	pt: (541.0, 282.0)
+ 	size: 31.0
+ 	angle: 107.16525268554688
+ 	response: 0.0004814957792405039
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd870>   -->index: 10 
+	pt: (133.0, 910.0)
+ 	size: 31.0
+ 	angle: 0.05844073370099068
+ 	response: 0.0002902877749875188
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd8a0>   -->index: 11 
+	pt: (353.0, 500.0)
+ 	size: 31.0
+ 	angle: 212.11233520507812
+ 	response: 0.0004886678070761263
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd8d0>   -->index: 12 
+	pt: (714.0, 769.0)
+ 	size: 31.0
+ 	angle: 313.0331115722656
+ 	response: 0.0003874389221891761
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd900>   -->index: 13 
+	pt: (150.0, 501.0)
+ 	size: 31.0
+ 	angle: 190.0023956298828
+ 	response: 0.00035565849975682795
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd930>   -->index: 14 
+	pt: (519.0, 288.0)
+ 	size: 31.0
+ 	angle: 30.008264541625977
+ 	response: 0.0004647401801776141
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd960>   -->index: 15 
+	pt: (537.0, 934.0)
+ 	size: 31.0
+ 	angle: 163.202880859375
+ 	response: 0.00031182405655272305
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd990>   -->index: 16 
+	pt: (648.0, 401.0)
+ 	size: 31.0
+ 	angle: 52.253780364990234
+ 	response: 0.00026997714303433895
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd9c0>   -->index: 17 
+	pt: (321.0, 942.0)
+ 	size: 31.0
+ 	angle: 74.71867370605469
+ 	response: 0.0002616195706650615
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edd9f0>   -->index: 18 
+	pt: (239.0, 756.0)
+ 	size: 31.0
+ 	angle: 202.94573974609375
+ 	response: 8.72960954438895e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edda20>   -->index: 19 
+	pt: (273.0, 771.0)
+ 	size: 31.0
+ 	angle: 115.68890380859375
+ 	response: 0.00017660507000982761
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edda50>   -->index: 20 
+	pt: (102.0, 954.0)
+ 	size: 31.0
+ 	angle: 309.72833251953125
+ 	response: 0.00010445462976349518
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edda80>   -->index: 21 
+	pt: (760.0, 397.0)
+ 	size: 31.0
+ 	angle: 306.27130126953125
+ 	response: 0.00024493460659869015
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddab0>   -->index: 22 
+	pt: (321.0, 944.0)
+ 	size: 31.0
+ 	angle: 77.2153091430664
+ 	response: 0.00014648000069428235
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddae0>   -->index: 23 
+	pt: (265.0, 641.0)
+ 	size: 31.0
+ 	angle: 331.1637878417969
+ 	response: 0.00010793269757414237
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddb10>   -->index: 24 
+	pt: (779.0, 549.0)
+ 	size: 31.0
+ 	angle: 41.23523712158203
+ 	response: 0.00014643685426563025
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddb40>   -->index: 25 
+	pt: (333.0, 600.0)
+ 	size: 31.0
+ 	angle: 288.2261962890625
+ 	response: 0.0001159852254204452
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddb70>   -->index: 26 
+	pt: (273.0, 697.0)
+ 	size: 31.0
+ 	angle: 90.02600860595703
+ 	response: 0.00011967305181315169
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddba0>   -->index: 27 
+	pt: (126.0, 941.0)
+ 	size: 31.0
+ 	angle: 201.5718536376953
+ 	response: 0.0001048495905706659
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddbd0>   -->index: 28 
+	pt: (296.0, 584.0)
+ 	size: 31.0
+ 	angle: 191.05166625976562
+ 	response: 9.178848995361477e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddc00>   -->index: 29 
+	pt: (266.0, 601.0)
+ 	size: 31.0
+ 	angle: 326.1451721191406
+ 	response: 0.00019367689674254507
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddc30>   -->index: 30 
+	pt: (133.0, 938.0)
+ 	size: 31.0
+ 	angle: 221.81744384765625
+ 	response: 0.00012992214760743082
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddc60>   -->index: 31 
+	pt: (318.0, 568.0)
+ 	size: 31.0
+ 	angle: 340.37451171875
+ 	response: 0.0002402330719633028
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddc90>   -->index: 32 
+	pt: (670.0, 548.0)
+ 	size: 31.0
+ 	angle: 40.18476486206055
+ 	response: 9.416619286639616e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddcc0>   -->index: 33 
+	pt: (277.0, 594.0)
+ 	size: 31.0
+ 	angle: 192.27133178710938
+ 	response: 0.0001096828345907852
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddcf0>   -->index: 34 
+	pt: (302.0, 586.0)
+ 	size: 31.0
+ 	angle: 222.7125244140625
+ 	response: 0.00016544877144042403
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddd20>   -->index: 35 
+	pt: (269.0, 602.0)
+ 	size: 31.0
+ 	angle: 315.5416564941406
+ 	response: 0.0001383761700708419
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddd50>   -->index: 36 
+	pt: (336.0, 403.0)
+ 	size: 31.0
+ 	angle: 117.37189483642578
+ 	response: 8.967938629211858e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddd80>   -->index: 37 
+	pt: (301.0, 579.0)
+ 	size: 31.0
+ 	angle: 262.4640808105469
+ 	response: 0.0001358648733003065
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edddb0>   -->index: 38 
+	pt: (254.0, 502.0)
+ 	size: 31.0
+ 	angle: 273.4111633300781
+ 	response: 0.0001570992317283526
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddde0>   -->index: 39 
+	pt: (744.0, 550.0)
+ 	size: 31.0
+ 	angle: 116.2845458984375
+ 	response: 9.675468754721805e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edde10>   -->index: 40 
+	pt: (533.0, 950.0)
+ 	size: 31.0
+ 	angle: 203.0171661376953
+ 	response: 0.00018775749776978046
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edde40>   -->index: 41 
+	pt: (120.0, 952.0)
+ 	size: 31.0
+ 	angle: 234.68336486816406
+ 	response: 0.0001558525545988232
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edde70>   -->index: 42 
+	pt: (278.0, 777.0)
+ 	size: 31.0
+ 	angle: 163.36940002441406
+ 	response: 0.000245429459027946
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddea0>   -->index: 43 
+	pt: (522.0, 926.0)
+ 	size: 31.0
+ 	angle: 121.28518676757812
+ 	response: 0.0002063313586404547
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edded0>   -->index: 44 
+	pt: (142.0, 665.0)
+ 	size: 31.0
+ 	angle: 230.171875
+ 	response: 8.787008846411481e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddf00>   -->index: 45 
+	pt: (261.0, 765.0)
+ 	size: 31.0
+ 	angle: 108.52127075195312
+ 	response: 0.00010316194675397128
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddf30>   -->index: 46 
+	pt: (253.0, 499.0)
+ 	size: 31.0
+ 	angle: 269.6981201171875
+ 	response: 9.793637582333758e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddf60>   -->index: 47 
+	pt: (351.0, 570.0)
+ 	size: 31.0
+ 	angle: 274.7076416015625
+ 	response: 0.0001127147552324459
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddf90>   -->index: 48 
+	pt: (319.0, 603.0)
+ 	size: 31.0
+ 	angle: 130.90811157226562
+ 	response: 0.00012741076352540404
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1eddfc0>   -->index: 49 
+	pt: (289.0, 580.0)
+ 	size: 31.0
+ 	angle: 195.6768341064453
+ 	response: 0.00016783336468506604
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf030>   -->index: 50 
+	pt: (244.0, 819.0)
+ 	size: 31.0
+ 	angle: 64.92849731445312
+ 	response: 9.758980013430119e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf060>   -->index: 51 
+	pt: (284.0, 818.0)
+ 	size: 31.0
+ 	angle: 137.73870849609375
+ 	response: 0.00025404803454875946
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf090>   -->index: 52 
+	pt: (470.0, 653.0)
+ 	size: 31.0
+ 	angle: 291.6439208984375
+ 	response: 9.59929748205468e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf0c0>   -->index: 53 
+	pt: (266.0, 823.0)
+ 	size: 31.0
+ 	angle: 107.79818725585938
+ 	response: 0.00017718845629133284
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf0f0>   -->index: 54 
+	pt: (269.0, 823.0)
+ 	size: 31.0
+ 	angle: 119.32707977294922
+ 	response: 0.00023095097276382148
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf120>   -->index: 55 
+	pt: (223.0, 748.0)
+ 	size: 31.0
+ 	angle: 73.21728515625
+ 	response: 0.00011487592564662918
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf150>   -->index: 56 
+	pt: (292.0, 581.0)
+ 	size: 31.0
+ 	angle: 194.52145385742188
+ 	response: 0.00013057643081992865
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf180>   -->index: 57 
+	pt: (318.0, 615.0)
+ 	size: 31.0
+ 	angle: 142.55279541015625
+ 	response: 0.0001833935093600303
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf1b0>   -->index: 58 
+	pt: (289.0, 722.0)
+ 	size: 31.0
+ 	angle: 187.26707458496094
+ 	response: 0.00011919932876480743
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf1e0>   -->index: 59 
+	pt: (338.0, 604.0)
+ 	size: 31.0
+ 	angle: 294.23162841796875
+ 	response: 0.0001377710432279855
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf210>   -->index: 60 
+	pt: (280.0, 786.0)
+ 	size: 31.0
+ 	angle: 204.63368225097656
+ 	response: 9.030690125655383e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf240>   -->index: 61 
+	pt: (324.0, 611.0)
+ 	size: 31.0
+ 	angle: 149.225830078125
+ 	response: 0.00016174856864381582
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf270>   -->index: 62 
+	pt: (352.0, 580.0)
+ 	size: 31.0
+ 	angle: 4.062767028808594
+ 	response: 0.00013664367725141346
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf2a0>   -->index: 63 
+	pt: (319.0, 562.0)
+ 	size: 31.0
+ 	angle: 292.0344543457031
+ 	response: 0.00012549865641631186
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf2d0>   -->index: 64 
+	pt: (108.0, 960.0)
+ 	size: 31.0
+ 	angle: 272.1138610839844
+ 	response: 0.00017607172776479274
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf300>   -->index: 65 
+	pt: (738.0, 463.0)
+ 	size: 31.0
+ 	angle: 132.2661895751953
+ 	response: 0.00019824660557787865
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf330>   -->index: 66 
+	pt: (354.0, 584.0)
+ 	size: 31.0
+ 	angle: 30.425872802734375
+ 	response: 9.598390897735953e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf360>   -->index: 67 
+	pt: (290.0, 201.0)
+ 	size: 31.0
+ 	angle: 174.0875701904297
+ 	response: 8.752208668738604e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf390>   -->index: 68 
+	pt: (650.0, 419.0)
+ 	size: 31.0
+ 	angle: 315.0838623046875
+ 	response: 0.00016930812853388488
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf3c0>   -->index: 69 
+	pt: (267.0, 811.0)
+ 	size: 31.0
+ 	angle: 128.732421875
+ 	response: 0.0002429519227007404
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf3f0>   -->index: 70 
+	pt: (106.0, 961.0)
+ 	size: 31.0
+ 	angle: 277.8029479980469
+ 	response: 0.0001961703528650105
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf420>   -->index: 71 
+	pt: (154.0, 903.0)
+ 	size: 31.0
+ 	angle: 114.61880493164062
+ 	response: 0.00025299261324107647
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf450>   -->index: 72 
+	pt: (554.0, 293.0)
+ 	size: 31.0
+ 	angle: 144.4251708984375
+ 	response: 0.00010016882151830941
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf480>   -->index: 73 
+	pt: (317.0, 561.0)
+ 	size: 31.0
+ 	angle: 272.9031677246094
+ 	response: 0.00021580631437245756
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf4b0>   -->index: 74 
+	pt: (459.0, 125.0)
+ 	size: 31.0
+ 	angle: 184.19239807128906
+ 	response: 0.00014454382471740246
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf4e0>   -->index: 75 
+	pt: (326.0, 598.0)
+ 	size: 31.0
+ 	angle: 262.5816955566406
+ 	response: 0.00014161628496367484
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf510>   -->index: 76 
+	pt: (151.0, 899.0)
+ 	size: 31.0
+ 	angle: 187.62242126464844
+ 	response: 0.0001553686015540734
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf540>   -->index: 77 
+	pt: (306.0, 597.0)
+ 	size: 31.0
+ 	angle: 147.6973114013672
+ 	response: 9.432475781068206e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf570>   -->index: 78 
+	pt: (457.0, 124.0)
+ 	size: 31.0
+ 	angle: 170.5106201171875
+ 	response: 0.0001341520983260125
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf5a0>   -->index: 79 
+	pt: (132.0, 897.0)
+ 	size: 31.0
+ 	angle: 34.05762481689453
+ 	response: 0.00010891680722124875
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf5d0>   -->index: 80 
+	pt: (752.0, 420.0)
+ 	size: 31.0
+ 	angle: 357.1064147949219
+ 	response: 0.0002428610750939697
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf600>   -->index: 81 
+	pt: (417.0, 477.0)
+ 	size: 31.0
+ 	angle: 261.6869201660156
+ 	response: 0.0001389492827001959
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf630>   -->index: 82 
+	pt: (113.0, 956.0)
+ 	size: 31.0
+ 	angle: 256.27264404296875
+ 	response: 0.00012042621528962627
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf660>   -->index: 83 
+	pt: (321.0, 610.0)
+ 	size: 31.0
+ 	angle: 142.919921875
+ 	response: 0.00024372705956920981
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf690>   -->index: 84 
+	pt: (680.0, 421.0)
+ 	size: 31.0
+ 	angle: 162.8672332763672
+ 	response: 0.00016570178559049964
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf6c0>   -->index: 85 
+	pt: (142.0, 883.0)
+ 	size: 31.0
+ 	angle: 139.48663330078125
+ 	response: 9.656807378632948e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf6f0>   -->index: 86 
+	pt: (483.0, 85.0)
+ 	size: 31.0
+ 	angle: 313.8636779785156
+ 	response: 0.00012322852853685617
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf720>   -->index: 87 
+	pt: (277.0, 620.0)
+ 	size: 31.0
+ 	angle: 298.3614807128906
+ 	response: 9.011280053528026e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf750>   -->index: 88 
+	pt: (406.0, 472.0)
+ 	size: 31.0
+ 	angle: 218.6003875732422
+ 	response: 0.00013338153075892478
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf780>   -->index: 89 
+	pt: (229.0, 410.0)
+ 	size: 31.0
+ 	angle: 222.6646270751953
+ 	response: 0.0001470763236284256
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf7b0>   -->index: 90 
+	pt: (320.0, 571.0)
+ 	size: 31.0
+ 	angle: 353.4811706542969
+ 	response: 0.0001690136850811541
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf7e0>   -->index: 91 
+	pt: (292.0, 205.0)
+ 	size: 31.0
+ 	angle: 167.01870727539062
+ 	response: 0.0001135199490818195
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf810>   -->index: 92 
+	pt: (280.0, 596.0)
+ 	size: 31.0
+ 	angle: 171.56228637695312
+ 	response: 0.00019530640565790236
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf840>   -->index: 93 
+	pt: (280.0, 621.0)
+ 	size: 31.0
+ 	angle: 293.3048095703125
+ 	response: 0.000153496497659944
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf870>   -->index: 94 
+	pt: (314.0, 559.0)
+ 	size: 31.0
+ 	angle: 264.18670654296875
+ 	response: 0.00023823350784368813
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf8a0>   -->index: 95 
+	pt: (566.0, 254.0)
+ 	size: 31.0
+ 	angle: 5.466300010681152
+ 	response: 0.00013157424109522253
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf8d0>   -->index: 96 
+	pt: (300.0, 590.0)
+ 	size: 31.0
+ 	angle: 170.0902862548828
+ 	response: 0.00020643587049562484
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf900>   -->index: 97 
+	pt: (272.0, 469.0)
+ 	size: 31.0
+ 	angle: 242.681396484375
+ 	response: 9.746778232511133e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf930>   -->index: 98 
+	pt: (131.0, 884.0)
+ 	size: 31.0
+ 	angle: 271.4095764160156
+ 	response: 0.00017796564497984946
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf960>   -->index: 99 
+	pt: (512.0, 932.0)
+ 	size: 31.0
+ 	angle: 341.2862548828125
+ 	response: 8.34290767670609e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf990>   -->index: 100 
+	pt: (314.0, 604.0)
+ 	size: 31.0
+ 	angle: 139.22885131835938
+ 	response: 8.415352203883231e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf9c0>   -->index: 101 
+	pt: (343.0, 575.0)
+ 	size: 31.0
+ 	angle: 222.944091796875
+ 	response: 8.350851567229256e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edf9f0>   -->index: 102 
+	pt: (289.0, 686.0)
+ 	size: 31.0
+ 	angle: 309.24615478515625
+ 	response: 8.710459223948419e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfa20>   -->index: 103 
+	pt: (134.0, 918.0)
+ 	size: 31.0
+ 	angle: 284.1315612792969
+ 	response: 8.686088403919712e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfa50>   -->index: 104 
+	pt: (507.0, 921.0)
+ 	size: 31.0
+ 	angle: 359.411865234375
+ 	response: 8.366020483663306e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfa80>   -->index: 105 
+	pt: (289.0, 626.0)
+ 	size: 31.0
+ 	angle: 245.467041015625
+ 	response: 8.637145219836384e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfab0>   -->index: 106 
+	pt: (350.0, 614.0)
+ 	size: 31.0
+ 	angle: 12.055768013000488
+ 	response: 8.277329470729455e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfae0>   -->index: 107 
+	pt: (267.0, 837.0)
+ 	size: 31.0
+ 	angle: 236.19891357421875
+ 	response: 8.339608029928058e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfb10>   -->index: 108 
+	pt: (347.0, 616.0)
+ 	size: 31.0
+ 	angle: 20.4443416595459
+ 	response: 8.15739476820454e-05
+ 	octave: 0
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfb40>   -->index: 109 
+	pt: (325.20001220703125, 594.0)
+ 	size: 37.20000076293945
+ 	angle: 280.70361328125
+ 	response: 7.544817344751209e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfb70>   -->index: 110 
+	pt: (522.0, 926.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 112.01028442382812
+ 	response: 0.0002228071098215878
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfba0>   -->index: 111 
+	pt: (130.8000030517578, 884.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 284.08245849609375
+ 	response: 0.00011105694284196943
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfbd0>   -->index: 112 
+	pt: (276.0, 819.6000366210938)
+ 	size: 37.20000076293945
+ 	angle: 141.232666015625
+ 	response: 0.0002840503875631839
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfc00>   -->index: 113 
+	pt: (266.4000244140625, 600.0)
+ 	size: 37.20000076293945
+ 	angle: 322.7969055175781
+ 	response: 0.0001263135054614395
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfc30>   -->index: 114 
+	pt: (314.4000244140625, 559.2000122070312)
+ 	size: 37.20000076293945
+ 	angle: 268.7677917480469
+ 	response: 0.00018261701916344464
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfc60>   -->index: 115 
+	pt: (319.20001220703125, 562.800048828125)
+ 	size: 37.20000076293945
+ 	angle: 292.723388671875
+ 	response: 9.971537656383589e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfc90>   -->index: 116 
+	pt: (416.4000244140625, 476.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 256.5844421386719
+ 	response: 0.00012933516700286418
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfcc0>   -->index: 117 
+	pt: (289.20001220703125, 722.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 191.5955047607422
+ 	response: 0.00012740175588987768
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfcf0>   -->index: 118 
+	pt: (229.20001220703125, 409.20001220703125)
+ 	size: 37.20000076293945
+ 	angle: 224.2403106689453
+ 	response: 0.00014763340004719794
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfd20>   -->index: 119 
+	pt: (106.80000305175781, 960.0000610351562)
+ 	size: 37.20000076293945
+ 	angle: 278.53466796875
+ 	response: 0.0002544604067225009
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfd50>   -->index: 120 
+	pt: (318.0, 567.6000366210938)
+ 	size: 37.20000076293945
+ 	angle: 293.95977783203125
+ 	response: 0.00017864975961856544
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfd80>   -->index: 121 
+	pt: (350.4000244140625, 570.0)
+ 	size: 37.20000076293945
+ 	angle: 276.222412109375
+ 	response: 8.416412310907617e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfdb0>   -->index: 122 
+	pt: (319.20001220703125, 571.2000122070312)
+ 	size: 37.20000076293945
+ 	angle: 314.32696533203125
+ 	response: 0.00014273884880822152
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfde0>   -->index: 123 
+	pt: (553.2000122070312, 292.8000183105469)
+ 	size: 37.20000076293945
+ 	angle: 146.94482421875
+ 	response: 0.00010206091246800497
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfe10>   -->index: 124 
+	pt: (157.20001220703125, 734.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 113.38780212402344
+ 	response: 0.0002114062081091106
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfe40>   -->index: 125 
+	pt: (273.6000061035156, 771.6000366210938)
+ 	size: 37.20000076293945
+ 	angle: 123.92758178710938
+ 	response: 0.00014385943359229714
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfe70>   -->index: 126 
+	pt: (102.00000762939453, 954.0000610351562)
+ 	size: 37.20000076293945
+ 	angle: 300.4284362792969
+ 	response: 0.00012919334403704852
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfea0>   -->index: 127 
+	pt: (336.0, 403.20001220703125)
+ 	size: 37.20000076293945
+ 	angle: 131.095458984375
+ 	response: 8.282389171654359e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edfed0>   -->index: 128 
+	pt: (343.20001220703125, 574.800048828125)
+ 	size: 37.20000076293945
+ 	angle: 235.93484497070312
+ 	response: 7.65567529015243e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edff00>   -->index: 129 
+	pt: (518.4000244140625, 288.0)
+ 	size: 37.20000076293945
+ 	angle: 30.620838165283203
+ 	response: 0.0002737856702879071
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edff30>   -->index: 130 
+	pt: (140.40000915527344, 883.2000122070312)
+ 	size: 37.20000076293945
+ 	angle: 218.64112854003906
+ 	response: 0.00014273228589445353
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edff60>   -->index: 131 
+	pt: (278.4000244140625, 776.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 153.249755859375
+ 	response: 0.0001947593264048919
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edff90>   -->index: 132 
+	pt: (120.00000762939453, 951.6000366210938)
+ 	size: 37.20000076293945
+ 	angle: 233.30392456054688
+ 	response: 0.00016159212100319564
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1edffc0>   -->index: 133 
+	pt: (648.0, 400.8000183105469)
+ 	size: 37.20000076293945
+ 	angle: 48.20805358886719
+ 	response: 0.00028528476832434535
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0030>   -->index: 134 
+	pt: (540.0, 282.0)
+ 	size: 37.20000076293945
+ 	angle: 104.66014099121094
+ 	response: 0.00037477913429029286
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0060>   -->index: 135 
+	pt: (780.0000610351562, 549.6000366210938)
+ 	size: 37.20000076293945
+ 	angle: 40.56772994995117
+ 	response: 0.00024187071539927274
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0090>   -->index: 136 
+	pt: (274.8000183105469, 822.0000610351562)
+ 	size: 37.20000076293945
+ 	angle: 151.41964721679688
+ 	response: 0.0003199618950020522
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee00c0>   -->index: 137 
+	pt: (398.4000244140625, 123.60000610351562)
+ 	size: 37.20000076293945
+ 	angle: 238.67098999023438
+ 	response: 8.438584336545318e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee00f0>   -->index: 138 
+	pt: (240.00001525878906, 754.800048828125)
+ 	size: 37.20000076293945
+ 	angle: 202.35511779785156
+ 	response: 9.237730409950018e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0120>   -->index: 139 
+	pt: (507.6000061035156, 920.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 19.764671325683594
+ 	response: 8.676593279233202e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0150>   -->index: 140 
+	pt: (763.2000122070312, 400.8000183105469)
+ 	size: 37.20000076293945
+ 	angle: 335.1207580566406
+ 	response: 0.00010343445319449529
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0180>   -->index: 141 
+	pt: (457.20001220703125, 123.60000610351562)
+ 	size: 37.20000076293945
+ 	angle: 159.57772827148438
+ 	response: 7.63257485232316e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee01b0>   -->index: 142 
+	pt: (742.800048828125, 549.6000366210938)
+ 	size: 37.20000076293945
+ 	angle: 120.61652374267578
+ 	response: 0.00010251314233755693
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee01e0>   -->index: 143 
+	pt: (289.20001220703125, 579.6000366210938)
+ 	size: 37.20000076293945
+ 	angle: 191.08526611328125
+ 	response: 0.00011108614125987515
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0210>   -->index: 144 
+	pt: (279.6000061035156, 620.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 264.19921875
+ 	response: 0.0001009911866276525
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0240>   -->index: 145 
+	pt: (351.6000061035156, 579.6000366210938)
+ 	size: 37.20000076293945
+ 	angle: 342.0928039550781
+ 	response: 0.00012783866259269416
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0270>   -->index: 146 
+	pt: (670.800048828125, 548.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 39.92830276489258
+ 	response: 0.00014064500282984227
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee02a0>   -->index: 147 
+	pt: (112.80000305175781, 955.2000122070312)
+ 	size: 37.20000076293945
+ 	angle: 261.1529541015625
+ 	response: 0.0001449499832233414
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee02d0>   -->index: 148 
+	pt: (272.4000244140625, 697.2000122070312)
+ 	size: 37.20000076293945
+ 	angle: 87.98666381835938
+ 	response: 0.00011746187374228612
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0300>   -->index: 149 
+	pt: (302.4000244140625, 585.6000366210938)
+ 	size: 37.20000076293945
+ 	angle: 214.069580078125
+ 	response: 8.773227455094457e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0330>   -->index: 150 
+	pt: (567.6000366210938, 325.20001220703125)
+ 	size: 37.20000076293945
+ 	angle: 219.0669403076172
+ 	response: 8.927004091674462e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0360>   -->index: 151 
+	pt: (290.4000244140625, 264.0)
+ 	size: 37.20000076293945
+ 	angle: 185.74551391601562
+ 	response: 0.00011921376426471397
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0390>   -->index: 152 
+	pt: (286.8000183105469, 262.8000183105469)
+ 	size: 37.20000076293945
+ 	angle: 188.23451232910156
+ 	response: 0.00028558511985465884
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee03c0>   -->index: 153 
+	pt: (674.4000244140625, 417.6000061035156)
+ 	size: 37.20000076293945
+ 	angle: 171.09312438964844
+ 	response: 8.536419773008674e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee03f0>   -->index: 154 
+	pt: (320.4000244140625, 943.2000122070312)
+ 	size: 37.20000076293945
+ 	angle: 85.546142578125
+ 	response: 0.00019482745847199112
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0420>   -->index: 155 
+	pt: (132.0, 896.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 30.78240966796875
+ 	response: 0.00010245465819025412
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0450>   -->index: 156 
+	pt: (565.2000122070312, 254.40000915527344)
+ 	size: 37.20000076293945
+ 	angle: 2.9739630222320557
+ 	response: 0.00010423114144941792
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0480>   -->index: 157 
+	pt: (115.20000457763672, 692.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 165.48182678222656
+ 	response: 0.00011649758380372077
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee04b0>   -->index: 158 
+	pt: (117.60000610351562, 916.800048828125)
+ 	size: 37.20000076293945
+ 	angle: 158.6195068359375
+ 	response: 9.524109191261232e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee04e0>   -->index: 159 
+	pt: (336.0, 598.800048828125)
+ 	size: 37.20000076293945
+ 	angle: 288.0946960449219
+ 	response: 7.64335272833705e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0510>   -->index: 160 
+	pt: (283.20001220703125, 818.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 148.1352081298828
+ 	response: 0.0002597571292426437
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0540>   -->index: 161 
+	pt: (277.20001220703125, 822.0000610351562)
+ 	size: 37.20000076293945
+ 	angle: 155.32835388183594
+ 	response: 0.0003452919190749526
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0570>   -->index: 162 
+	pt: (150.0, 898.800048828125)
+ 	size: 37.20000076293945
+ 	angle: 124.20121765136719
+ 	response: 0.00014078964886721224
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee05a0>   -->index: 163 
+	pt: (159.60000610351562, 898.800048828125)
+ 	size: 37.20000076293945
+ 	angle: 197.33595275878906
+ 	response: 0.00022850077948532999
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee05d0>   -->index: 164 
+	pt: (679.2000122070312, 421.20001220703125)
+ 	size: 37.20000076293945
+ 	angle: 156.445556640625
+ 	response: 0.00011946300946874544
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0600>   -->index: 165 
+	pt: (759.6000366210938, 397.20001220703125)
+ 	size: 37.20000076293945
+ 	angle: 312.878662109375
+ 	response: 0.00023481181415263563
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0630>   -->index: 166 
+	pt: (126.00000762939453, 940.800048828125)
+ 	size: 37.20000076293945
+ 	angle: 218.1940155029297
+ 	response: 8.807559788692743e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0660>   -->index: 167 
+	pt: (223.20001220703125, 747.6000366210938)
+ 	size: 37.20000076293945
+ 	angle: 70.46133422851562
+ 	response: 0.00010523862874833867
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0690>   -->index: 168 
+	pt: (536.4000244140625, 933.6000366210938)
+ 	size: 37.20000076293945
+ 	angle: 158.21942138671875
+ 	response: 0.0003159695479553193
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee06c0>   -->index: 169 
+	pt: (280.8000183105469, 596.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 168.60459899902344
+ 	response: 0.00014931180339772254
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee06f0>   -->index: 170 
+	pt: (326.4000244140625, 597.6000366210938)
+ 	size: 37.20000076293945
+ 	angle: 272.3198547363281
+ 	response: 0.00011170378274982795
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0720>   -->index: 171 
+	pt: (133.20001220703125, 902.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 27.08054542541504
+ 	response: 0.0002620407904032618
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0750>   -->index: 172 
+	pt: (150.0, 500.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 191.55178833007812
+ 	response: 0.00034863458131439984
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0780>   -->index: 173 
+	pt: (153.60000610351562, 902.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 121.97283935546875
+ 	response: 0.00020309524552430958
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee07b0>   -->index: 174 
+	pt: (482.4000244140625, 85.20000457763672)
+ 	size: 37.20000076293945
+ 	angle: 310.92828369140625
+ 	response: 0.00013286565081216395
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee07e0>   -->index: 175 
+	pt: (268.8000183105469, 602.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 321.51971435546875
+ 	response: 0.00011899967648787424
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0810>   -->index: 176 
+	pt: (406.8000183105469, 471.6000061035156)
+ 	size: 37.20000076293945
+ 	angle: 230.21913146972656
+ 	response: 0.00011259160237386823
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0840>   -->index: 177 
+	pt: (133.20001220703125, 908.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 29.035961151123047
+ 	response: 0.00033052029903046787
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0870>   -->index: 178 
+	pt: (650.4000244140625, 418.8000183105469)
+ 	size: 37.20000076293945
+ 	angle: 318.2095031738281
+ 	response: 0.00012682458327617496
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee08a0>   -->index: 179 
+	pt: (266.4000244140625, 823.2000122070312)
+ 	size: 37.20000076293945
+ 	angle: 132.04673767089844
+ 	response: 0.000182888368726708
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee08d0>   -->index: 180 
+	pt: (338.4000244140625, 603.6000366210938)
+ 	size: 37.20000076293945
+ 	angle: 315.8890686035156
+ 	response: 0.00011789437849074602
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0900>   -->index: 181 
+	pt: (266.4000244140625, 811.2000122070312)
+ 	size: 37.20000076293945
+ 	angle: 117.80281066894531
+ 	response: 0.00018530958914197981
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0930>   -->index: 182 
+	pt: (715.2000122070312, 764.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 305.01922607421875
+ 	response: 0.0003883314202539623
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0960>   -->index: 183 
+	pt: (291.6000061035156, 205.20001220703125)
+ 	size: 37.20000076293945
+ 	angle: 167.01620483398438
+ 	response: 8.838475332595408e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0990>   -->index: 184 
+	pt: (290.4000244140625, 200.40000915527344)
+ 	size: 37.20000076293945
+ 	angle: 174.05123901367188
+ 	response: 8.166472980519757e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee09c0>   -->index: 185 
+	pt: (260.4000244140625, 765.6000366210938)
+ 	size: 37.20000076293945
+ 	angle: 109.86408233642578
+ 	response: 0.00012878322741016746
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee09f0>   -->index: 186 
+	pt: (270.0, 820.800048828125)
+ 	size: 37.20000076293945
+ 	angle: 130.23976135253906
+ 	response: 0.00021016935352236032
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0a20>   -->index: 187 
+	pt: (302.4000244140625, 362.4000244140625)
+ 	size: 37.20000076293945
+ 	angle: 104.47758483886719
+ 	response: 0.00027845767908729613
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0a50>   -->index: 188 
+	pt: (519.6000366210938, 909.6000366210938)
+ 	size: 37.20000076293945
+ 	angle: 133.1287384033203
+ 	response: 0.00010441879567224532
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0a80>   -->index: 189 
+	pt: (320.4000244140625, 609.6000366210938)
+ 	size: 37.20000076293945
+ 	angle: 144.2847442626953
+ 	response: 0.000142112432513386
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0ab0>   -->index: 190 
+	pt: (751.2000122070312, 418.8000183105469)
+ 	size: 37.20000076293945
+ 	angle: 1.2052395343780518
+ 	response: 0.00025403755716979504
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0ae0>   -->index: 191 
+	pt: (253.20001220703125, 501.6000061035156)
+ 	size: 37.20000076293945
+ 	angle: 264.48443603515625
+ 	response: 8.065529982559383e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0b10>   -->index: 192 
+	pt: (133.20001220703125, 937.2000122070312)
+ 	size: 37.20000076293945
+ 	angle: 220.77886962890625
+ 	response: 9.676719491835684e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0b40>   -->index: 193 
+	pt: (714.0, 769.2000122070312)
+ 	size: 37.20000076293945
+ 	angle: 320.3602294921875
+ 	response: 0.0003070360980927944
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0b70>   -->index: 194 
+	pt: (382.8000183105469, 480.0000305175781)
+ 	size: 37.20000076293945
+ 	angle: 260.4553527832031
+ 	response: 0.00019508911645971239
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0ba0>   -->index: 195 
+	pt: (284.4000244140625, 577.2000122070312)
+ 	size: 37.20000076293945
+ 	angle: 185.09495544433594
+ 	response: 7.325239857891575e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0bd0>   -->index: 196 
+	pt: (459.6000061035156, 124.80000305175781)
+ 	size: 37.20000076293945
+ 	angle: 177.5320281982422
+ 	response: 7.47477897675708e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0c00>   -->index: 197 
+	pt: (511.20001220703125, 931.2000122070312)
+ 	size: 37.20000076293945
+ 	angle: 358.4830017089844
+ 	response: 7.30852916603908e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0c30>   -->index: 198 
+	pt: (690.0, 370.8000183105469)
+ 	size: 37.20000076293945
+ 	angle: 353.255615234375
+ 	response: 7.223502325359732e-05
+ 	octave: 1
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0c60>   -->index: 199 
+	pt: (277.9200134277344, 776.1600341796875)
+ 	size: 44.6400032043457
+ 	angle: 151.9477996826172
+ 	response: 0.000168336380738765
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0c90>   -->index: 200 
+	pt: (761.760009765625, 400.32000732421875)
+ 	size: 44.6400032043457
+ 	angle: 330.9033203125
+ 	response: 0.00025779270799830556
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0cc0>   -->index: 201 
+	pt: (532.800048828125, 950.4000244140625)
+ 	size: 44.6400032043457
+ 	angle: 205.0927734375
+ 	response: 0.00018073825049214065
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0cf0>   -->index: 202 
+	pt: (518.4000244140625, 288.0)
+ 	size: 44.6400032043457
+ 	angle: 32.891380310058594
+ 	response: 0.00020465253328438848
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0d20>   -->index: 203 
+	pt: (133.9199981689453, 907.2000122070312)
+ 	size: 44.6400032043457
+ 	angle: 53.60961151123047
+ 	response: 0.0002638061123434454
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0d50>   -->index: 204 
+	pt: (648.0, 400.32000732421875)
+ 	size: 44.6400032043457
+ 	angle: 42.707820892333984
+ 	response: 0.0002529981138650328
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0d80>   -->index: 205 
+	pt: (758.8800048828125, 397.44000244140625)
+ 	size: 44.6400032043457
+ 	angle: 316.88726806640625
+ 	response: 0.0002240145404357463
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0db0>   -->index: 206 
+	pt: (133.9199981689453, 902.8800659179688)
+ 	size: 44.6400032043457
+ 	angle: 48.67165756225586
+ 	response: 0.0003045564517378807
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0de0>   -->index: 207 
+	pt: (151.20001220703125, 898.56005859375)
+ 	size: 44.6400032043457
+ 	angle: 75.54273986816406
+ 	response: 0.00017691483662929386
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0e10>   -->index: 208 
+	pt: (302.4000244140625, 362.8800048828125)
+ 	size: 44.6400032043457
+ 	angle: 116.2529067993164
+ 	response: 0.00026360005722381175
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0e40>   -->index: 209 
+	pt: (277.9200134277344, 820.800048828125)
+ 	size: 44.6400032043457
+ 	angle: 159.1023406982422
+ 	response: 0.0003182055370416492
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0e70>   -->index: 210 
+	pt: (352.8000183105469, 499.6800231933594)
+ 	size: 44.6400032043457
+ 	angle: 208.24325561523438
+ 	response: 0.0004502873634919524
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0ea0>   -->index: 211 
+	pt: (275.0400085449219, 820.800048828125)
+ 	size: 44.6400032043457
+ 	angle: 155.37451171875
+ 	response: 0.0002553892554715276
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0ed0>   -->index: 212 
+	pt: (270.7200012207031, 820.800048828125)
+ 	size: 44.6400032043457
+ 	angle: 147.25840759277344
+ 	response: 0.0002168480132240802
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0f00>   -->index: 213 
+	pt: (151.20001220703125, 499.6800231933594)
+ 	size: 44.6400032043457
+ 	angle: 194.59336853027344
+ 	response: 0.00034200187656097114
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0f30>   -->index: 214 
+	pt: (540.0, 305.2799987792969)
+ 	size: 44.6400032043457
+ 	angle: 291.74993896484375
+ 	response: 0.0001786428183550015
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0f60>   -->index: 215 
+	pt: (383.0400085449219, 480.96002197265625)
+ 	size: 44.6400032043457
+ 	angle: 258.4228210449219
+ 	response: 0.0002064627769868821
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0f90>   -->index: 216 
+	pt: (283.6800231933594, 817.9200439453125)
+ 	size: 44.6400032043457
+ 	angle: 154.86514282226562
+ 	response: 0.00020802096696570516
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee0fc0>   -->index: 217 
+	pt: (714.2400512695312, 767.52001953125)
+ 	size: 44.6400032043457
+ 	angle: 320.1433410644531
+ 	response: 0.0003178171464242041
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1030>   -->index: 218 
+	pt: (540.0, 282.2400207519531)
+ 	size: 44.6400032043457
+ 	angle: 104.60785675048828
+ 	response: 0.00027785764541476965
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1060>   -->index: 219 
+	pt: (286.55999755859375, 262.08001708984375)
+ 	size: 44.6400032043457
+ 	angle: 187.24110412597656
+ 	response: 0.00023957296798471361
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1090>   -->index: 220 
+	pt: (522.7200317382812, 925.9200439453125)
+ 	size: 44.6400032043457
+ 	angle: 121.82835388183594
+ 	response: 0.0002324413217138499
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee10c0>   -->index: 221 
+	pt: (288.0, 264.96002197265625)
+ 	size: 44.6400032043457
+ 	angle: 185.12278747558594
+ 	response: 0.00022160011576488614
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee10f0>   -->index: 222 
+	pt: (753.1200561523438, 419.0400085449219)
+ 	size: 44.6400032043457
+ 	angle: 352.2575988769531
+ 	response: 0.0003269410226494074
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1120>   -->index: 223 
+	pt: (715.6800537109375, 763.2000122070312)
+ 	size: 44.6400032043457
+ 	angle: 310.9740295410156
+ 	response: 0.00025318749248981476
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1150>   -->index: 224 
+	pt: (535.6799926757812, 934.56005859375)
+ 	size: 44.6400032043457
+ 	angle: 153.22811889648438
+ 	response: 0.0003316796210128814
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1180>   -->index: 225 
+	pt: (319.6800231933594, 609.1199951171875)
+ 	size: 44.6400032043457
+ 	angle: 149.53997802734375
+ 	response: 8.303429058287293e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee11b0>   -->index: 226 
+	pt: (240.48001098632812, 754.56005859375)
+ 	size: 44.6400032043457
+ 	angle: 183.34722900390625
+ 	response: 0.00013767564087174833
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee11e0>   -->index: 227 
+	pt: (119.52000427246094, 950.4000244140625)
+ 	size: 44.6400032043457
+ 	angle: 237.3280487060547
+ 	response: 0.00014973791257943958
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1210>   -->index: 228 
+	pt: (218.8800048828125, 745.9200439453125)
+ 	size: 44.6400032043457
+ 	angle: 84.95552062988281
+ 	response: 0.00011111931235063821
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1240>   -->index: 229 
+	pt: (266.4000244140625, 810.7200317382812)
+ 	size: 44.6400032043457
+ 	angle: 112.07340240478516
+ 	response: 0.00013288151239976287
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1270>   -->index: 230 
+	pt: (406.08001708984375, 470.8800048828125)
+ 	size: 44.6400032043457
+ 	angle: 236.5938720703125
+ 	response: 8.902282570488751e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee12a0>   -->index: 231 
+	pt: (741.6000366210938, 550.0800170898438)
+ 	size: 44.6400032043457
+ 	angle: 126.64265441894531
+ 	response: 0.00010377808212069795
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee12d0>   -->index: 232 
+	pt: (671.0400390625, 548.6400146484375)
+ 	size: 44.6400032043457
+ 	angle: 38.50221252441406
+ 	response: 0.00016789576329756528
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1300>   -->index: 233 
+	pt: (139.6800079345703, 882.7200317382812)
+ 	size: 44.6400032043457
+ 	angle: 259.86126708984375
+ 	response: 9.54565402935259e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1330>   -->index: 234 
+	pt: (156.9600067138672, 732.9600219726562)
+ 	size: 44.6400032043457
+ 	angle: 115.0613021850586
+ 	response: 0.00016397269791923463
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1360>   -->index: 235 
+	pt: (527.0400390625, 184.32000732421875)
+ 	size: 44.6400032043457
+ 	angle: 309.24395751953125
+ 	response: 0.0001611557963769883
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1390>   -->index: 236 
+	pt: (290.8800048828125, 263.52001953125)
+ 	size: 44.6400032043457
+ 	angle: 186.05319213867188
+ 	response: 0.00011082913260906935
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee13c0>   -->index: 237 
+	pt: (351.3600158691406, 578.8800048828125)
+ 	size: 44.6400032043457
+ 	angle: 305.3622741699219
+ 	response: 0.00011559825361473486
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee13f0>   -->index: 238 
+	pt: (650.8800048828125, 419.0400085449219)
+ 	size: 44.6400032043457
+ 	angle: 325.60626220703125
+ 	response: 8.485880243824795e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1420>   -->index: 239 
+	pt: (129.60000610351562, 940.3200073242188)
+ 	size: 44.6400032043457
+ 	angle: 224.05242919921875
+ 	response: 0.0001377349253743887
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1450>   -->index: 240 
+	pt: (416.1600036621094, 476.6400146484375)
+ 	size: 44.6400032043457
+ 	angle: 252.73666381835938
+ 	response: 0.0001057695408235304
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1480>   -->index: 241 
+	pt: (552.9600219726562, 292.32000732421875)
+ 	size: 44.6400032043457
+ 	angle: 145.77601623535156
+ 	response: 9.265168046113104e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee14b0>   -->index: 242 
+	pt: (508.32000732421875, 920.1600341796875)
+ 	size: 44.6400032043457
+ 	angle: 54.73990249633789
+ 	response: 8.622757013654336e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee14e0>   -->index: 243 
+	pt: (692.6400146484375, 334.08001708984375)
+ 	size: 44.6400032043457
+ 	angle: 311.8443298339844
+ 	response: 0.00012242300726938993
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1510>   -->index: 244 
+	pt: (326.8800048828125, 597.6000366210938)
+ 	size: 44.6400032043457
+ 	angle: 260.27764892578125
+ 	response: 0.00010637669765856117
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1540>   -->index: 245 
+	pt: (289.44000244140625, 721.4400024414062)
+ 	size: 44.6400032043457
+ 	angle: 190.7032470703125
+ 	response: 0.00011884910782100633
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1570>   -->index: 246 
+	pt: (321.1200256347656, 940.3200073242188)
+ 	size: 44.6400032043457
+ 	angle: 91.86577606201172
+ 	response: 0.00013142060197424144
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee15a0>   -->index: 247 
+	pt: (673.9200439453125, 417.6000061035156)
+ 	size: 44.6400032043457
+ 	angle: 168.12051391601562
+ 	response: 0.00010302050213795155
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee15d0>   -->index: 248 
+	pt: (272.1600036621094, 768.9600219726562)
+ 	size: 44.6400032043457
+ 	angle: 124.82484436035156
+ 	response: 0.0001474407472414896
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1600>   -->index: 249 
+	pt: (260.6400146484375, 764.6400146484375)
+ 	size: 44.6400032043457
+ 	angle: 127.13241577148438
+ 	response: 0.00010179467790294439
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1630>   -->index: 250 
+	pt: (273.6000061035156, 771.8400268554688)
+ 	size: 44.6400032043457
+ 	angle: 133.67588806152344
+ 	response: 0.00015966739738360047
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1660>   -->index: 251 
+	pt: (354.2400207519531, 576.0)
+ 	size: 44.6400032043457
+ 	angle: 310.9470520019531
+ 	response: 0.00015478039858862758
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1690>   -->index: 252 
+	pt: (315.3600158691406, 558.7200317382812)
+ 	size: 44.6400032043457
+ 	angle: 278.3369140625
+ 	response: 0.00012872448132839054
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee16c0>   -->index: 253 
+	pt: (152.63999938964844, 902.8800659179688)
+ 	size: 44.6400032043457
+ 	angle: 160.46900939941406
+ 	response: 0.00013401043543126434
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee16f0>   -->index: 254 
+	pt: (318.2400207519531, 567.3600463867188)
+ 	size: 44.6400032043457
+ 	angle: 285.9283447265625
+ 	response: 0.00013507655239664018
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1720>   -->index: 255 
+	pt: (115.20000457763672, 691.2000122070312)
+ 	size: 44.6400032043457
+ 	angle: 168.771728515625
+ 	response: 0.0001620552793610841
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1750>   -->index: 256 
+	pt: (280.8000183105469, 596.1600341796875)
+ 	size: 44.6400032043457
+ 	angle: 173.24183654785156
+ 	response: 0.00012283843534532934
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1780>   -->index: 257 
+	pt: (482.4000244140625, 84.96000671386719)
+ 	size: 44.6400032043457
+ 	angle: 309.91302490234375
+ 	response: 0.00016518731717951596
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee17b0>   -->index: 258 
+	pt: (316.8000183105469, 571.6799926757812)
+ 	size: 44.6400032043457
+ 	angle: 283.94769287109375
+ 	response: 0.00013551402662415057
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee17e0>   -->index: 259 
+	pt: (518.4000244140625, 910.0800170898438)
+ 	size: 44.6400032043457
+ 	angle: 123.90901947021484
+ 	response: 0.00011498168169055134
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1810>   -->index: 260 
+	pt: (691.2000122070312, 370.08001708984375)
+ 	size: 44.6400032043457
+ 	angle: 352.67041015625
+ 	response: 9.13759067771025e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1840>   -->index: 261 
+	pt: (159.8400115966797, 897.1200561523438)
+ 	size: 44.6400032043457
+ 	angle: 222.99752807617188
+ 	response: 0.00015546080248896033
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1870>   -->index: 262 
+	pt: (324.0, 594.7200317382812)
+ 	size: 44.6400032043457
+ 	angle: 270.0278015136719
+ 	response: 0.00010640364052960649
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee18a0>   -->index: 263 
+	pt: (228.9600067138672, 408.96002197265625)
+ 	size: 44.6400032043457
+ 	angle: 224.69471740722656
+ 	response: 0.00012313916522543877
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee18d0>   -->index: 264 
+	pt: (398.8800048828125, 122.4000015258789)
+ 	size: 44.6400032043457
+ 	angle: 238.1627655029297
+ 	response: 7.292348891496658e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1900>   -->index: 265 
+	pt: (444.96002197265625, 469.4400329589844)
+ 	size: 44.6400032043457
+ 	angle: 249.18759155273438
+ 	response: 8.172470552381128e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1930>   -->index: 266 
+	pt: (344.1600036621094, 574.5599975585938)
+ 	size: 44.6400032043457
+ 	angle: 248.74534606933594
+ 	response: 7.991356687853113e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1960>   -->index: 267 
+	pt: (318.2400207519531, 563.0400390625)
+ 	size: 44.6400032043457
+ 	angle: 279.9925537109375
+ 	response: 8.291250560432673e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1990>   -->index: 268 
+	pt: (132.48001098632812, 895.6800537109375)
+ 	size: 44.6400032043457
+ 	angle: 36.76747131347656
+ 	response: 8.041779074119404e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee19c0>   -->index: 269 
+	pt: (565.9200439453125, 253.44000244140625)
+ 	size: 44.6400032043457
+ 	angle: 2.559352159500122
+ 	response: 7.698589615756646e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee19f0>   -->index: 270 
+	pt: (568.800048828125, 324.0)
+ 	size: 44.6400032043457
+ 	angle: 216.05050659179688
+ 	response: 7.808744703652337e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1a20>   -->index: 271 
+	pt: (351.3600158691406, 568.800048828125)
+ 	size: 44.6400032043457
+ 	angle: 275.2117004394531
+ 	response: 7.746033952571452e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1a50>   -->index: 272 
+	pt: (224.6400146484375, 747.3600463867188)
+ 	size: 44.6400032043457
+ 	angle: 68.80780029296875
+ 	response: 8.106456516543403e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1a80>   -->index: 273 
+	pt: (329.760009765625, 401.760009765625)
+ 	size: 44.6400032043457
+ 	angle: 128.82742309570312
+ 	response: 7.207884482340887e-05
+ 	octave: 2
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1ab0>   -->index: 274 
+	pt: (228.0960235595703, 409.5360412597656)
+ 	size: 53.5680046081543
+ 	angle: 224.64649963378906
+ 	response: 9.986473742173985e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1ae0>   -->index: 275 
+	pt: (219.45602416992188, 746.49609375)
+ 	size: 53.5680046081543
+ 	angle: 84.23688507080078
+ 	response: 0.00012345447612460703
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1b10>   -->index: 276 
+	pt: (259.20001220703125, 765.5040893554688)
+ 	size: 53.5680046081543
+ 	angle: 153.55271911621094
+ 	response: 0.0001244258601218462
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1b40>   -->index: 277 
+	pt: (692.9280395507812, 333.5040283203125)
+ 	size: 53.5680046081543
+ 	angle: 312.5482177734375
+ 	response: 0.00010583153925836086
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1b70>   -->index: 278 
+	pt: (267.84002685546875, 825.9840698242188)
+ 	size: 53.5680046081543
+ 	angle: 168.90625
+ 	response: 0.00019898798200301826
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1ba0>   -->index: 279 
+	pt: (278.2080383300781, 820.800048828125)
+ 	size: 53.5680046081543
+ 	angle: 162.97792053222656
+ 	response: 0.0003019528812728822
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1bd0>   -->index: 280 
+	pt: (152.0640106201172, 903.7440795898438)
+ 	size: 53.5680046081543
+ 	angle: 214.0158233642578
+ 	response: 0.0001230708003276959
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1c00>   -->index: 281 
+	pt: (129.60000610351562, 941.7600708007812)
+ 	size: 53.5680046081543
+ 	angle: 228.80697631835938
+ 	response: 0.00010848740203073248
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1c30>   -->index: 282 
+	pt: (539.1360473632812, 307.5840148925781)
+ 	size: 53.5680046081543
+ 	angle: 285.31011962890625
+ 	response: 0.00013000764010939747
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1c60>   -->index: 283 
+	pt: (648.0000610351562, 402.6240234375)
+ 	size: 53.5680046081543
+ 	angle: 29.389156341552734
+ 	response: 0.00030527805211022496
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1c90>   -->index: 284 
+	pt: (478.6560363769531, 84.67200469970703)
+ 	size: 53.5680046081543
+ 	angle: 299.9629211425781
+ 	response: 0.00025232689222320914
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1cc0>   -->index: 285 
+	pt: (482.112060546875, 84.67200469970703)
+ 	size: 53.5680046081543
+ 	angle: 307.7571105957031
+ 	response: 0.00018835216178558767
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1cf0>   -->index: 286 
+	pt: (352.51202392578125, 501.12005615234375)
+ 	size: 53.5680046081543
+ 	angle: 204.11512756347656
+ 	response: 0.0004640948900487274
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1d20>   -->index: 287 
+	pt: (273.0240173339844, 698.112060546875)
+ 	size: 53.5680046081543
+ 	angle: 61.75267791748047
+ 	response: 0.00016914919251576066
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1d50>   -->index: 288 
+	pt: (115.77600860595703, 692.9280395507812)
+ 	size: 53.5680046081543
+ 	angle: 165.31178283691406
+ 	response: 0.00019913956930395216
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1d80>   -->index: 289 
+	pt: (715.39208984375, 765.5040893554688)
+ 	size: 53.5680046081543
+ 	angle: 321.0660400390625
+ 	response: 0.00025022815680131316
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1db0>   -->index: 290 
+	pt: (540.8640747070312, 304.1280212402344)
+ 	size: 53.5680046081543
+ 	angle: 274.91436767578125
+ 	response: 0.00014230210217647254
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1de0>   -->index: 291 
+	pt: (535.6800537109375, 934.8480834960938)
+ 	size: 53.5680046081543
+ 	angle: 154.66346740722656
+ 	response: 0.00030816521029919386
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1e10>   -->index: 292 
+	pt: (274.75201416015625, 820.800048828125)
+ 	size: 53.5680046081543
+ 	angle: 161.47662353515625
+ 	response: 0.00017250153177883476
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1e40>   -->index: 293 
+	pt: (273.0240173339844, 770.6880493164062)
+ 	size: 53.5680046081543
+ 	angle: 135.11184692382812
+ 	response: 0.00015093099500518292
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1e70>   -->index: 294 
+	pt: (549.5040283203125, 319.6800231933594)
+ 	size: 53.5680046081543
+ 	angle: 273.40966796875
+ 	response: 0.00011967106547672302
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1ea0>   -->index: 295 
+	pt: (276.48004150390625, 775.8720703125)
+ 	size: 53.5680046081543
+ 	angle: 151.86448669433594
+ 	response: 0.00017750759434420615
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1ed0>   -->index: 296 
+	pt: (381.8880310058594, 480.384033203125)
+ 	size: 53.5680046081543
+ 	angle: 256.3843994140625
+ 	response: 0.000248514988925308
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1f00>   -->index: 297 
+	pt: (753.4080810546875, 419.904052734375)
+ 	size: 53.5680046081543
+ 	angle: 341.6202392578125
+ 	response: 0.00030788008007220924
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1f30>   -->index: 298 
+	pt: (521.8560791015625, 927.9360961914062)
+ 	size: 53.5680046081543
+ 	angle: 115.24349975585938
+ 	response: 0.00020911164756398648
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1f60>   -->index: 299 
+	pt: (354.2400207519531, 575.424072265625)
+ 	size: 53.5680046081543
+ 	angle: 295.6911926269531
+ 	response: 0.00015680176147725433
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1f90>   -->index: 300 
+	pt: (762.048095703125, 400.8960266113281)
+ 	size: 53.5680046081543
+ 	angle: 326.85858154296875
+ 	response: 0.0002457027439959347
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1ee1fc0>   -->index: 301 
+	pt: (150.3360137939453, 501.12005615234375)
+ 	size: 53.5680046081543
+ 	angle: 192.74478149414062
+ 	response: 0.0003173704317305237
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62030>   -->index: 302 
+	pt: (691.2000732421875, 371.5200500488281)
+ 	size: 53.5680046081543
+ 	angle: 348.5916748046875
+ 	response: 0.00011153643572470173
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62060>   -->index: 303 
+	pt: (302.4000244140625, 364.6080322265625)
+ 	size: 53.5680046081543
+ 	angle: 121.96607971191406
+ 	response: 0.000264459231402725
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62090>   -->index: 304 
+	pt: (240.1920166015625, 755.1360473632812)
+ 	size: 53.5680046081543
+ 	angle: 153.3360137939453
+ 	response: 0.00014804805687163025
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e620c0>   -->index: 305 
+	pt: (266.1120300292969, 812.1600952148438)
+ 	size: 53.5680046081543
+ 	angle: 128.0408477783203
+ 	response: 0.00010125021799467504
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e620f0>   -->index: 306 
+	pt: (670.4640502929688, 549.5040283203125)
+ 	size: 53.5680046081543
+ 	angle: 36.0391845703125
+ 	response: 0.00015838502440601587
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62120>   -->index: 307 
+	pt: (267.84002685546875, 834.6240844726562)
+ 	size: 53.5680046081543
+ 	angle: 209.60855102539062
+ 	response: 0.00013270483759697527
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62150>   -->index: 308 
+	pt: (527.0400390625, 184.89601135253906)
+ 	size: 53.5680046081543
+ 	angle: 309.15673828125
+ 	response: 0.00015562355110887438
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62180>   -->index: 309 
+	pt: (134.7840118408203, 907.2000732421875)
+ 	size: 53.5680046081543
+ 	angle: 71.4532470703125
+ 	response: 0.0002807807468343526
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e621b0>   -->index: 310 
+	pt: (518.4000244140625, 288.5760192871094)
+ 	size: 53.5680046081543
+ 	angle: 36.064178466796875
+ 	response: 0.0001580060925334692
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e621e0>   -->index: 311 
+	pt: (288.5760192871094, 266.1120300292969)
+ 	size: 53.5680046081543
+ 	angle: 183.7246856689453
+ 	response: 0.00014651253877673298
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62210>   -->index: 312 
+	pt: (741.3120727539062, 551.2320556640625)
+ 	size: 53.5680046081543
+ 	angle: 134.44387817382812
+ 	response: 0.00012231302389409393
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62240>   -->index: 313 
+	pt: (160.70401000976562, 729.216064453125)
+ 	size: 53.5680046081543
+ 	angle: 112.55990600585938
+ 	response: 0.00017197038687299937
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62270>   -->index: 314 
+	pt: (288.5760192871094, 722.3040771484375)
+ 	size: 53.5680046081543
+ 	angle: 194.7499542236328
+ 	response: 0.00014915756764821708
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e622a0>   -->index: 315 
+	pt: (269.5680236816406, 817.3440551757812)
+ 	size: 53.5680046081543
+ 	angle: 145.20217895507812
+ 	response: 0.00020682990725617856
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e622d0>   -->index: 316 
+	pt: (540.8640747070312, 283.39202880859375)
+ 	size: 53.5680046081543
+ 	angle: 103.30437469482422
+ 	response: 0.00019698598771356046
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62300>   -->index: 317 
+	pt: (523.5840454101562, 943.4880981445312)
+ 	size: 53.5680046081543
+ 	angle: 159.1941375732422
+ 	response: 0.00012179277109680697
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62330>   -->index: 318 
+	pt: (343.8720397949219, 407.80804443359375)
+ 	size: 53.5680046081543
+ 	angle: 158.34925842285156
+ 	response: 0.00013315337128005922
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62360>   -->index: 319 
+	pt: (283.39202880859375, 819.0720825195312)
+ 	size: 53.5680046081543
+ 	angle: 161.5321502685547
+ 	response: 0.0001969017757801339
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62390>   -->index: 320 
+	pt: (508.03204345703125, 921.0241088867188)
+ 	size: 53.5680046081543
+ 	angle: 67.10400390625
+ 	response: 7.415954314637929e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e623c0>   -->index: 321 
+	pt: (566.7840576171875, 324.8640441894531)
+ 	size: 53.5680046081543
+ 	angle: 228.14132690429688
+ 	response: 7.736159750493243e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e623f0>   -->index: 322 
+	pt: (155.52001953125, 734.4000854492188)
+ 	size: 53.5680046081543
+ 	angle: 116.846435546875
+ 	response: 8.943353896029294e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62420>   -->index: 323 
+	pt: (160.70401000976562, 898.56005859375)
+ 	size: 53.5680046081543
+ 	angle: 222.04742431640625
+ 	response: 7.908341649454087e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62450>   -->index: 324 
+	pt: (317.9520263671875, 563.3280639648438)
+ 	size: 53.5680046081543
+ 	angle: 274.5931396484375
+ 	response: 9.436594700673595e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62480>   -->index: 325 
+	pt: (350.7840270996094, 570.2400512695312)
+ 	size: 53.5680046081543
+ 	angle: 260.16925048828125
+ 	response: 8.490694017382339e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e624b0>   -->index: 326 
+	pt: (416.4480285644531, 476.92803955078125)
+ 	size: 53.5680046081543
+ 	angle: 249.70709228515625
+ 	response: 9.075400157598779e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e624e0>   -->index: 327 
+	pt: (266.1120300292969, 831.1680908203125)
+ 	size: 53.5680046081543
+ 	angle: 194.21725463867188
+ 	response: 8.590333891334012e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62510>   -->index: 328 
+	pt: (518.4000244140625, 910.6560668945312)
+ 	size: 53.5680046081543
+ 	angle: 119.01521301269531
+ 	response: 9.531852265354246e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62540>   -->index: 329 
+	pt: (328.3200378417969, 604.800048828125)
+ 	size: 53.5680046081543
+ 	angle: 185.2522430419922
+ 	response: 7.962501695146784e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62570>   -->index: 330 
+	pt: (672.1920776367188, 418.176025390625)
+ 	size: 53.5680046081543
+ 	angle: 165.754150390625
+ 	response: 7.87501921877265e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e625a0>   -->index: 331 
+	pt: (314.49603271484375, 559.8720703125)
+ 	size: 53.5680046081543
+ 	angle: 281.1164855957031
+ 	response: 8.516810339642689e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e625d0>   -->index: 332 
+	pt: (316.2240295410156, 571.9680786132812)
+ 	size: 53.5680046081543
+ 	angle: 276.3381042480469
+ 	response: 9.814227814786136e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62600>   -->index: 333 
+	pt: (321.40802001953125, 941.7600708007812)
+ 	size: 53.5680046081543
+ 	angle: 96.68768310546875
+ 	response: 8.02545910119079e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62630>   -->index: 334 
+	pt: (221.18402099609375, 475.2000427246094)
+ 	size: 53.5680046081543
+ 	angle: 32.94385528564453
+ 	response: 7.42811753298156e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62660>   -->index: 335 
+	pt: (279.93603515625, 596.1600341796875)
+ 	size: 53.5680046081543
+ 	angle: 180.23419189453125
+ 	response: 8.352879376616329e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62690>   -->index: 336 
+	pt: (319.6800231933594, 568.5120239257812)
+ 	size: 53.5680046081543
+ 	angle: 268.2978515625
+ 	response: 7.265280873980373e-05
+ 	octave: 3
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e626c0>   -->index: 337 
+	pt: (547.4304809570312, 319.3344421386719)
+ 	size: 64.28160858154297
+ 	angle: 260.80419921875
+ 	response: 9.252782183466479e-05
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e626f0>   -->index: 338 
+	pt: (288.2304382324219, 721.6129150390625)
+ 	size: 64.28160858154297
+ 	angle: 205.74888610839844
+ 	response: 0.00017550692427903414
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62720>   -->index: 339 
+	pt: (267.49444580078125, 833.5873413085938)
+ 	size: 64.28160858154297
+ 	angle: 199.58999633789062
+ 	response: 0.00014222860045265406
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62750>   -->index: 340 
+	pt: (534.9888916015625, 933.1201171875)
+ 	size: 64.28160858154297
+ 	angle: 161.94540405273438
+ 	response: 0.0002813159371726215
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62780>   -->index: 341 
+	pt: (342.14404296875, 182.47682189941406)
+ 	size: 64.28160858154297
+ 	angle: 97.48546600341797
+ 	response: 9.741410030983388e-05
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e627b0>   -->index: 342 
+	pt: (288.2304382324219, 265.42083740234375)
+ 	size: 64.28160858154297
+ 	angle: 184.31307983398438
+ 	response: 0.00010195111826760694
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e627e0>   -->index: 343 
+	pt: (476.9280700683594, 85.01760864257812)
+ 	size: 64.28160858154297
+ 	angle: 298.2239990234375
+ 	response: 0.0002776461187750101
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62810>   -->index: 344 
+	pt: (481.07525634765625, 85.01760864257812)
+ 	size: 64.28160858154297
+ 	angle: 305.5503845214844
+ 	response: 0.0002171876112697646
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62840>   -->index: 345 
+	pt: (522.5473022460938, 926.8993530273438)
+ 	size: 64.28160858154297
+ 	angle: 124.3348159790039
+ 	response: 0.00023716090072412044
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62870>   -->index: 346 
+	pt: (228.09603881835938, 410.5728454589844)
+ 	size: 64.28160858154297
+ 	angle: 225.06268310546875
+ 	response: 0.00013382683391682804
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e628a0>   -->index: 347 
+	pt: (302.7456359863281, 364.9536437988281)
+ 	size: 64.28160858154297
+ 	angle: 126.832275390625
+ 	response: 0.00023539825633633882
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e628d0>   -->index: 348 
+	pt: (257.1264343261719, 765.1585083007812)
+ 	size: 64.28160858154297
+ 	angle: 165.28277587890625
+ 	response: 0.0001290324580622837
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62900>   -->index: 349 
+	pt: (713.3184814453125, 765.1585083007812)
+ 	size: 64.28160858154297
+ 	angle: 328.30987548828125
+ 	response: 0.00016138688079081476
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62930>   -->index: 350 
+	pt: (273.7152404785156, 698.8032836914062)
+ 	size: 64.28160858154297
+ 	angle: 31.879650115966797
+ 	response: 0.0002097136020893231
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62960>   -->index: 351 
+	pt: (271.6416320800781, 771.3793334960938)
+ 	size: 64.28160858154297
+ 	angle: 146.73092651367188
+ 	response: 0.0002173949615098536
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62990>   -->index: 352 
+	pt: (275.7888488769531, 775.5264892578125)
+ 	size: 64.28160858154297
+ 	angle: 156.28997802734375
+ 	response: 0.00013417408626992255
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e629c0>   -->index: 353 
+	pt: (646.9633178710938, 402.2784423828125)
+ 	size: 64.28160858154297
+ 	angle: 20.732147216796875
+ 	response: 0.0002876266371458769
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e629f0>   -->index: 354 
+	pt: (518.4000854492188, 288.2304382324219)
+ 	size: 64.28160858154297
+ 	angle: 43.12864685058594
+ 	response: 0.0001204092986881733
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62a20>   -->index: 355 
+	pt: (539.1360473632812, 284.083251953125)
+ 	size: 64.28160858154297
+ 	angle: 95.80131530761719
+ 	response: 0.00015001736755948514
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62a50>   -->index: 356 
+	pt: (342.14404296875, 408.499267578125)
+ 	size: 64.28160858154297
+ 	angle: 155.76290893554688
+ 	response: 0.00022106847609393299
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62a80>   -->index: 357 
+	pt: (282.0096435546875, 819.0721435546875)
+ 	size: 64.28160858154297
+ 	angle: 173.2997589111328
+ 	response: 0.00021188973914831877
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62ab0>   -->index: 358 
+	pt: (352.5120544433594, 499.7376708984375)
+ 	size: 64.28160858154297
+ 	angle: 203.7720489501953
+ 	response: 0.0004054629825986922
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62ae0>   -->index: 359 
+	pt: (286.1568298339844, 261.2736511230469)
+ 	size: 64.28160858154297
+ 	angle: 186.56423950195312
+ 	response: 0.00011501342669362202
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62b10>   -->index: 360 
+	pt: (151.37281799316406, 499.7376708984375)
+ 	size: 64.28160858154297
+ 	angle: 196.25526428222656
+ 	response: 0.00032172349165193737
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62b40>   -->index: 361 
+	pt: (116.12161254882812, 692.58251953125)
+ 	size: 64.28160858154297
+ 	angle: 163.69996643066406
+ 	response: 0.00023035054618958384
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62b70>   -->index: 362 
+	pt: (752.7169189453125, 418.86724853515625)
+ 	size: 64.28160858154297
+ 	angle: 328.6111145019531
+ 	response: 0.0003151330747641623
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62ba0>   -->index: 363 
+	pt: (381.5424499511719, 481.07525634765625)
+ 	size: 64.28160858154297
+ 	angle: 252.61109924316406
+ 	response: 0.0002711520064622164
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62bd0>   -->index: 364 
+	pt: (669.7728881835938, 549.5040893554688)
+ 	size: 64.28160858154297
+ 	angle: 35.8257942199707
+ 	response: 0.0002126630861312151
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62c00>   -->index: 365 
+	pt: (738.2017211914062, 551.5776977539062)
+ 	size: 64.28160858154297
+ 	angle: 141.13699340820312
+ 	response: 0.00014253809058573097
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62c30>   -->index: 366 
+	pt: (526.6944580078125, 184.55043029785156)
+ 	size: 64.28160858154297
+ 	angle: 308.6518249511719
+ 	response: 0.00017099386604968458
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62c60>   -->index: 367 
+	pt: (134.7840118408203, 904.0897216796875)
+ 	size: 64.28160858154297
+ 	angle: 75.4100341796875
+ 	response: 0.00020147017494309694
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62c90>   -->index: 368 
+	pt: (267.49444580078125, 825.2929077148438)
+ 	size: 64.28160858154297
+ 	angle: 175.47769165039062
+ 	response: 0.00022851144603919238
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62cc0>   -->index: 369 
+	pt: (348.3648376464844, 570.2400512695312)
+ 	size: 64.28160858154297
+ 	angle: 227.58506774902344
+ 	response: 0.00011893777991645038
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62cf0>   -->index: 370 
+	pt: (692.58251953125, 333.8496398925781)
+ 	size: 64.28160858154297
+ 	angle: 316.10614013671875
+ 	response: 0.00010967432172037661
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62d20>   -->index: 371 
+	pt: (161.74082946777344, 727.8336791992188)
+ 	size: 64.28160858154297
+ 	angle: 113.37931060791016
+ 	response: 0.0001789661473594606
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62d50>   -->index: 372 
+	pt: (269.5680236816406, 814.9249267578125)
+ 	size: 64.28160858154297
+ 	angle: 157.27818298339844
+ 	response: 0.0002300938795087859
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62d80>   -->index: 373 
+	pt: (690.5089111328125, 369.1008605957031)
+ 	size: 64.28160858154297
+ 	angle: 347.15411376953125
+ 	response: 0.00010805315832840279
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62db0>   -->index: 374 
+	pt: (217.72802734375, 744.4224853515625)
+ 	size: 64.28160858154297
+ 	angle: 89.22246551513672
+ 	response: 0.00010733312228694558
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62de0>   -->index: 375 
+	pt: (342.14404296875, 404.35205078125)
+ 	size: 64.28160858154297
+ 	angle: 156.96119689941406
+ 	response: 0.00012196603347547352
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62e10>   -->index: 376 
+	pt: (414.7200622558594, 476.9280700683594)
+ 	size: 64.28160858154297
+ 	angle: 249.12020874023438
+ 	response: 9.749872697284445e-05
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62e40>   -->index: 377 
+	pt: (337.9968566894531, 404.35205078125)
+ 	size: 64.28160858154297
+ 	angle: 158.1706085205078
+ 	response: 0.00018402688147034496
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62e70>   -->index: 378 
+	pt: (352.5120544433594, 574.3872680664062)
+ 	size: 64.28160858154297
+ 	angle: 202.65545654296875
+ 	response: 0.00014215079136192799
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62ea0>   -->index: 379 
+	pt: (539.1360473632812, 306.8928527832031)
+ 	size: 64.28160858154297
+ 	angle: 265.7950439453125
+ 	response: 0.00016851308464538306
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62ed0>   -->index: 380 
+	pt: (346.291259765625, 574.3872680664062)
+ 	size: 64.28160858154297
+ 	angle: 273.67205810546875
+ 	response: 0.00014400116924662143
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62f00>   -->index: 381 
+	pt: (313.1136474609375, 561.9456787109375)
+ 	size: 64.28160858154297
+ 	angle: 269.9471435546875
+ 	response: 7.500391075154766e-05
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62f30>   -->index: 382 
+	pt: (406.4256591796875, 468.6336669921875)
+ 	size: 64.28160858154297
+ 	angle: 242.65875244140625
+ 	response: 7.7210963354446e-05
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62f60>   -->index: 383 
+	pt: (265.42083740234375, 810.7777099609375)
+ 	size: 64.28160858154297
+ 	angle: 151.70774841308594
+ 	response: 8.334466110682115e-05
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62f90>   -->index: 384 
+	pt: (516.3264770507812, 910.310546875)
+ 	size: 64.28160858154297
+ 	angle: 112.49213409423828
+ 	response: 8.866478310665116e-05
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e62fc0>   -->index: 385 
+	pt: (327.62884521484375, 402.2784423828125)
+ 	size: 64.28160858154297
+ 	angle: 151.0222625732422
+ 	response: 8.563166920794174e-05
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63030>   -->index: 386 
+	pt: (649.036865234375, 416.7936706542969)
+ 	size: 64.28160858154297
+ 	angle: 353.5850830078125
+ 	response: 7.30002429918386e-05
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63060>   -->index: 387 
+	pt: (396.0576477050781, 590.97607421875)
+ 	size: 64.28160858154297
+ 	angle: 165.8197479248047
+ 	response: 7.40209870855324e-05
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63090>   -->index: 388 
+	pt: (217.72802734375, 468.6336669921875)
+ 	size: 64.28160858154297
+ 	angle: 33.92584991455078
+ 	response: 6.945690984139219e-05
+ 	octave: 4
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e630c0>   -->index: 389 
+	pt: (408.0845642089844, 467.80426025390625)
+ 	size: 77.137939453125
+ 	angle: 242.3578643798828
+ 	response: 9.793544450076297e-05
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e630f0>   -->index: 390 
+	pt: (537.4772338867188, 283.6685485839844)
+ 	size: 77.137939453125
+ 	angle: 72.51957702636719
+ 	response: 0.00013158244837541133
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63120>   -->index: 391 
+	pt: (161.7408447265625, 726.589599609375)
+ 	size: 77.137939453125
+ 	angle: 115.5044174194336
+ 	response: 0.00016935479652602226
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63150>   -->index: 392 
+	pt: (480.2458801269531, 84.60289764404297)
+ 	size: 77.137939453125
+ 	angle: 301.24725341796875
+ 	response: 0.00021372562332544476
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63180>   -->index: 393 
+	pt: (353.3415222167969, 502.6407470703125)
+ 	size: 77.137939453125
+ 	angle: 201.02430725097656
+ 	response: 0.00045882159611210227
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e631b0>   -->index: 394 
+	pt: (646.96337890625, 403.1079406738281)
+ 	size: 77.137939453125
+ 	angle: 12.11487102508545
+ 	response: 0.0002753256994765252
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e631e0>   -->index: 395 
+	pt: (263.7619934082031, 813.6808471679688)
+ 	size: 77.137939453125
+ 	angle: 170.3643035888672
+ 	response: 0.00014425121480599046
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63210>   -->index: 396 
+	pt: (691.7531127929688, 333.4349670410156)
+ 	size: 77.137939453125
+ 	angle: 314.6078186035156
+ 	response: 0.00011402046220609918
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63240>   -->index: 397 
+	pt: (243.8554229736328, 756.449462890625)
+ 	size: 77.137939453125
+ 	angle: 142.05419921875
+ 	response: 0.0001910700520966202
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63270>   -->index: 398 
+	pt: (301.0867919921875, 365.7831115722656)
+ 	size: 77.137939453125
+ 	angle: 132.46728515625
+ 	response: 0.0002690470719244331
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e632a0>   -->index: 399 
+	pt: (268.7386169433594, 816.1691284179688)
+ 	size: 77.137939453125
+ 	angle: 172.65411376953125
+ 	response: 0.00017991742060985416
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e632d0>   -->index: 400 
+	pt: (151.7875518798828, 500.1524353027344)
+ 	size: 77.137939453125
+ 	angle: 197.2542266845703
+ 	response: 0.00033315992914140224
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63300>   -->index: 401 
+	pt: (286.1568603515625, 721.6129760742188)
+ 	size: 77.137939453125
+ 	angle: 224.27635192871094
+ 	response: 0.00019857543520629406
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63330>   -->index: 402 
+	pt: (736.5429077148438, 552.4071655273438)
+ 	size: 77.137939453125
+ 	angle: 146.00692749023438
+ 	response: 0.00014962117711547762
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63360>   -->index: 403 
+	pt: (669.3582153320312, 549.9188232421875)
+ 	size: 77.137939453125
+ 	angle: 35.443687438964844
+ 	response: 0.0002017211081692949
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63390>   -->index: 404 
+	pt: (714.1480102539062, 763.9144287109375)
+ 	size: 77.137939453125
+ 	angle: 332.24468994140625
+ 	response: 0.00011485179129522294
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e633c0>   -->index: 405 
+	pt: (216.48388671875, 744.0078735351562)
+ 	size: 77.137939453125
+ 	angle: 94.50442504882812
+ 	response: 0.00010312218364560977
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e633f0>   -->index: 406 
+	pt: (256.2970275878906, 766.4027709960938)
+ 	size: 77.137939453125
+ 	angle: 178.29176330566406
+ 	response: 0.00011376472684787586
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63420>   -->index: 407 
+	pt: (340.8999328613281, 408.0845642089844)
+ 	size: 77.137939453125
+ 	angle: 150.65121459960938
+ 	response: 0.0002911752671934664
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63450>   -->index: 408 
+	pt: (525.03564453125, 184.13572692871094)
+ 	size: 77.137939453125
+ 	angle: 311.0607604980469
+ 	response: 0.0001406539377057925
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63480>   -->index: 409 
+	pt: (539.965576171875, 303.5751037597656)
+ 	size: 77.137939453125
+ 	angle: 228.34344482421875
+ 	response: 0.00011557349353097379
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e634b0>   -->index: 410 
+	pt: (228.9254913330078, 410.5729064941406)
+ 	size: 77.137939453125
+ 	angle: 230.16299438476562
+ 	response: 0.0001324082404607907
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e634e0>   -->index: 411 
+	pt: (281.18023681640625, 821.1458129882812)
+ 	size: 77.137939453125
+ 	angle: 178.5078887939453
+ 	response: 0.00021572993136942387
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63510>   -->index: 412 
+	pt: (134.3693084716797, 905.7487182617188)
+ 	size: 77.137939453125
+ 	angle: 199.9140167236328
+ 	response: 0.00011007795546902344
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63540>   -->index: 413 
+	pt: (271.2269592285156, 823.6340942382812)
+ 	size: 77.137939453125
+ 	angle: 179.32064819335938
+ 	response: 0.00030208108364604414
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63570>   -->index: 414 
+	pt: (116.95106506347656, 691.7531127929688)
+ 	size: 77.137939453125
+ 	angle: 167.52020263671875
+ 	response: 0.00029430483118630946
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e635a0>   -->index: 415 
+	pt: (273.71527099609375, 699.2180786132812)
+ 	size: 77.137939453125
+ 	angle: 352.6520690917969
+ 	response: 0.00022437525331042707
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e635d0>   -->index: 416 
+	pt: (218.9722137451172, 475.26922607421875)
+ 	size: 77.137939453125
+ 	angle: 26.063127517700195
+ 	response: 0.00010977631609421223
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63600>   -->index: 417 
+	pt: (273.71527099609375, 773.86767578125)
+ 	size: 77.137939453125
+ 	angle: 163.55557250976562
+ 	response: 0.00017681180906947702
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63630>   -->index: 418 
+	pt: (378.2247314453125, 482.73419189453125)
+ 	size: 77.137939453125
+ 	angle: 249.562255859375
+ 	response: 0.0003603981458581984
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63660>   -->index: 419 
+	pt: (646.96337890625, 410.5729064941406)
+ 	size: 77.137939453125
+ 	angle: 4.518369197845459
+ 	response: 0.0002064162981696427
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63690>   -->index: 420 
+	pt: (328.45831298828125, 400.61962890625)
+ 	size: 77.137939453125
+ 	angle: 155.53704833984375
+ 	response: 8.576116670155898e-05
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e636c0>   -->index: 421 
+	pt: (395.6429748535156, 589.7319946289062)
+ 	size: 77.137939453125
+ 	angle: 166.75503540039062
+ 	response: 9.151508857030421e-05
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e636f0>   -->index: 422 
+	pt: (515.0823364257812, 913.2136840820312)
+ 	size: 77.137939453125
+ 	angle: 115.41513061523438
+ 	response: 9.399938426213339e-05
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63720>   -->index: 423 
+	pt: (517.5706787109375, 288.64520263671875)
+ 	size: 77.137939453125
+ 	angle: 52.312110900878906
+ 	response: 9.729173325467855e-05
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63750>   -->index: 424 
+	pt: (689.2648315429688, 370.759765625)
+ 	size: 77.137939453125
+ 	angle: 343.22430419921875
+ 	response: 9.576328739058226e-05
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63780>   -->index: 425 
+	pt: (286.1568603515625, 261.2736511230469)
+ 	size: 77.137939453125
+ 	angle: 186.3306884765625
+ 	response: 9.14914853638038e-05
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e637b0>   -->index: 426 
+	pt: (547.4305419921875, 318.5050354003906)
+ 	size: 77.137939453125
+ 	angle: 250.13031005859375
+ 	response: 9.529571980237961e-05
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e637e0>   -->index: 427 
+	pt: (413.06121826171875, 477.757568359375)
+ 	size: 77.137939453125
+ 	angle: 249.53546142578125
+ 	response: 7.181919499998912e-05
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63810>   -->index: 428 
+	pt: (335.92327880859375, 719.1246337890625)
+ 	size: 77.137939453125
+ 	angle: 258.8931884765625
+ 	response: 7.425053627230227e-05
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63840>   -->index: 429 
+	pt: (649.45166015625, 418.0378723144531)
+ 	size: 77.137939453125
+ 	angle: 0.6691921949386597
+ 	response: 7.317035488085821e-05
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63870>   -->index: 430 
+	pt: (256.2970275878906, 818.657470703125)
+ 	size: 77.137939453125
+ 	angle: 171.6403350830078
+ 	response: 7.017429015832022e-05
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e638a0>   -->index: 431 
+	pt: (696.729736328125, 348.3648681640625)
+ 	size: 77.137939453125
+ 	angle: 338.1910400390625
+ 	response: 6.911817763466388e-05
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e638d0>   -->index: 432 
+	pt: (420.52618408203125, 97.04450225830078)
+ 	size: 77.137939453125
+ 	angle: 237.93545532226562
+ 	response: 6.862978625576943e-05
+ 	octave: 5
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63900>   -->index: 433 
+	pt: (540.4632568359375, 304.5704345703125)
+ 	size: 92.5655288696289
+ 	angle: 283.71270751953125
+ 	response: 0.00011324859224259853
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63930>   -->index: 434 
+	pt: (241.86477661132812, 758.4401245117188)
+ 	size: 92.5655288696289
+ 	angle: 140.62196350097656
+ 	response: 0.0001396000006934628
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63960>   -->index: 435 
+	pt: (229.92083740234375, 409.0799255371094)
+ 	size: 92.5655288696289
+ 	angle: 242.95872497558594
+ 	response: 0.00011334138980600983
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63990>   -->index: 436 
+	pt: (301.58447265625, 367.276123046875)
+ 	size: 92.5655288696289
+ 	angle: 131.90158081054688
+ 	response: 0.00024270941503345966
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e639c0>   -->index: 437 
+	pt: (549.4212036132812, 316.514404296875)
+ 	size: 92.5655288696289
+ 	angle: 269.8495788574219
+ 	response: 0.00018044757598545402
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e639f0>   -->index: 438 
+	pt: (268.7386474609375, 824.1318359375)
+ 	size: 92.5655288696289
+ 	angle: 188.1003875732422
+ 	response: 0.00025207537692040205
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63a20>   -->index: 439 
+	pt: (647.9586791992188, 406.09393310546875)
+ 	size: 92.5655288696289
+ 	angle: 11.82942008972168
+ 	response: 0.0002782891388051212
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63a50>   -->index: 440 
+	pt: (280.68255615234375, 821.1458129882812)
+ 	size: 92.5655288696289
+ 	angle: 184.61676025390625
+ 	response: 0.00020019462681375444
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63a80>   -->index: 441 
+	pt: (340.40228271484375, 409.0799255371094)
+ 	size: 92.5655288696289
+ 	angle: 143.70367431640625
+ 	response: 0.00035386011586524546
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63ab0>   -->index: 442 
+	pt: (268.7386474609375, 830.103759765625)
+ 	size: 92.5655288696289
+ 	angle: 191.96253967285156
+ 	response: 0.00018331169849261642
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63ae0>   -->index: 443 
+	pt: (689.7625122070312, 334.4302978515625)
+ 	size: 92.5655288696289
+ 	angle: 314.61712646484375
+ 	response: 0.00014406026457436383
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63b10>   -->index: 444 
+	pt: (271.724609375, 773.3700561523438)
+ 	size: 92.5655288696289
+ 	angle: 177.9398193359375
+ 	response: 0.00011909798195119947
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63b40>   -->index: 445 
+	pt: (394.1499938964844, 591.2249755859375)
+ 	size: 92.5655288696289
+ 	angle: 170.3484649658203
+ 	response: 0.00015100740711204708
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63b70>   -->index: 446 
+	pt: (349.3602294921875, 573.30908203125)
+ 	size: 92.5655288696289
+ 	angle: 167.75306701660156
+ 	response: 0.00011593630915740505
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63ba0>   -->index: 447 
+	pt: (537.477294921875, 283.6685485839844)
+ 	size: 92.5655288696289
+ 	angle: 34.0422248840332
+ 	response: 0.00011331279529258609
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63bd0>   -->index: 448 
+	pt: (217.97689819335938, 743.5101928710938)
+ 	size: 92.5655288696289
+ 	angle: 97.9254379272461
+ 	response: 0.00013991567539051175
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63c00>   -->index: 449 
+	pt: (525.5333251953125, 182.14508056640625)
+ 	size: 92.5655288696289
+ 	angle: 313.40618896484375
+ 	response: 0.00015764600539114326
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63c30>   -->index: 450 
+	pt: (116.45340728759766, 689.7625122070312)
+ 	size: 92.5655288696289
+ 	angle: 172.21693420410156
+ 	response: 0.00033404340501874685
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63c60>   -->index: 451 
+	pt: (161.24317932128906, 725.5942993164062)
+ 	size: 92.5655288696289
+ 	angle: 116.31050109863281
+ 	response: 0.0001617270172573626
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63c90>   -->index: 452 
+	pt: (283.6685485839844, 722.6083374023438)
+ 	size: 92.5655288696289
+ 	angle: 250.65904235839844
+ 	response: 0.00022892568085808307
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63cc0>   -->index: 453 
+	pt: (271.724609375, 698.720458984375)
+ 	size: 92.5655288696289
+ 	angle: 340.38494873046875
+ 	response: 0.000257224019151181
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63cf0>   -->index: 454 
+	pt: (379.2200622558594, 483.72955322265625)
+ 	size: 92.5655288696289
+ 	angle: 242.79168701171875
+ 	response: 0.0003323026467114687
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63d20>   -->index: 455 
+	pt: (522.54736328125, 289.6405334472656)
+ 	size: 92.5655288696289
+ 	angle: 72.18435668945312
+ 	response: 0.0001401894260197878
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63d50>   -->index: 456 
+	pt: (152.28521728515625, 501.64544677734375)
+ 	size: 92.5655288696289
+ 	angle: 196.22837829589844
+ 	response: 0.00035317844594828784
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63d80>   -->index: 457 
+	pt: (352.34619140625, 501.64544677734375)
+ 	size: 92.5655288696289
+ 	angle: 202.28414916992188
+ 	response: 0.00036735046887770295
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63db0>   -->index: 458 
+	pt: (689.7625122070312, 370.2621154785156)
+ 	size: 92.5655288696289
+ 	angle: 335.0544738769531
+ 	response: 8.845291449688375e-05
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63de0>   -->index: 459 
+	pt: (376.23406982421875, 418.0378723144531)
+ 	size: 92.5655288696289
+ 	angle: 69.60496520996094
+ 	response: 9.725102427182719e-05
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63e10>   -->index: 460 
+	pt: (256.794677734375, 818.1598510742188)
+ 	size: 92.5655288696289
+ 	angle: 186.5055694580078
+ 	response: 0.00010468946857145056
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63e40>   -->index: 461 
+	pt: (340.40228271484375, 185.1310577392578)
+ 	size: 92.5655288696289
+ 	angle: 151.4188995361328
+ 	response: 8.919527317630127e-05
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63e70>   -->index: 462 
+	pt: (409.0799255371094, 465.8136291503906)
+ 	size: 92.5655288696289
+ 	angle: 239.8589630126953
+ 	response: 9.002805745694786e-05
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63ea0>   -->index: 463 
+	pt: (262.76666259765625, 812.1878662109375)
+ 	size: 92.5655288696289
+ 	angle: 182.42520141601562
+ 	response: 9.538125596009195e-05
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63ed0>   -->index: 464 
+	pt: (337.4162902832031, 716.6363525390625)
+ 	size: 92.5655288696289
+ 	angle: 254.34231567382812
+ 	response: 8.584955503465608e-05
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63f00>   -->index: 465 
+	pt: (713.650390625, 764.412109375)
+ 	size: 92.5655288696289
+ 	angle: 331.59326171875
+ 	response: 8.676109428051859e-05
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63f30>   -->index: 466 
+	pt: (328.45831298828125, 400.1219482421875)
+ 	size: 92.5655288696289
+ 	angle: 154.58392333984375
+ 	response: 8.272419654531404e-05
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63f60>   -->index: 467 
+	pt: (253.8087158203125, 767.3980712890625)
+ 	size: 92.5655288696289
+ 	angle: 179.75296020507812
+ 	response: 7.981555245351046e-05
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63f90>   -->index: 468 
+	pt: (220.96287536621094, 480.7435607910156)
+ 	size: 92.5655288696289
+ 	angle: 18.508705139160156
+ 	response: 7.929469575174153e-05
+ 	octave: 6
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e63fc0>   -->index: 469 
+	pt: (272.3218078613281, 824.1318359375)
+ 	size: 111.0786361694336
+ 	angle: 192.55572509765625
+ 	response: 0.00031470900285057724
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64030>   -->index: 470 
+	pt: (336.819091796875, 408.48272705078125)
+ 	size: 111.0786361694336
+ 	angle: 141.04820251464844
+ 	response: 0.00040126399835571647
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64060>   -->index: 471 
+	pt: (154.07681274414062, 501.64544677734375)
+ 	size: 111.0786361694336
+ 	angle: 196.0131378173828
+ 	response: 0.00036717960028909147
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64090>   -->index: 472 
+	pt: (354.7350158691406, 501.64544677734375)
+ 	size: 111.0786361694336
+ 	angle: 202.9601287841797
+ 	response: 0.0004262358997948468
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e640c0>   -->index: 473 
+	pt: (118.24500274658203, 691.5540771484375)
+ 	size: 111.0786361694336
+ 	angle: 169.26226806640625
+ 	response: 0.0003286993596702814
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e640f0>   -->index: 474 
+	pt: (386.983642578125, 598.391357421875)
+ 	size: 111.0786361694336
+ 	angle: 179.12445068359375
+ 	response: 0.00010574093175819144
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64120>   -->index: 475 
+	pt: (548.226806640625, 315.32000732421875)
+ 	size: 111.0786361694336
+ 	angle: 292.0634460449219
+ 	response: 0.000179255279363133
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64150>   -->index: 476 
+	pt: (243.6563720703125, 756.0513916015625)
+ 	size: 111.0786361694336
+ 	angle: 145.3791046142578
+ 	response: 0.00016500813944730908
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64180>   -->index: 477 
+	pt: (218.5740966796875, 741.7186279296875)
+ 	size: 111.0786361694336
+ 	angle: 101.70722961425781
+ 	response: 0.00015561895270366222
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e641b0>   -->index: 478 
+	pt: (655.7222900390625, 415.64910888671875)
+ 	size: 111.0786361694336
+ 	angle: 19.943923950195312
+ 	response: 0.00022039483883418143
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e641e0>   -->index: 479 
+	pt: (526.7277221679688, 182.74227905273438)
+ 	size: 111.0786361694336
+ 	angle: 315.56787109375
+ 	response: 0.00015702475502621382
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64210>   -->index: 480 
+	pt: (537.477294921875, 283.0713806152344)
+ 	size: 111.0786361694336
+ 	angle: 10.311378479003906
+ 	response: 0.00010916795872617513
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64240>   -->index: 481 
+	pt: (161.24317932128906, 723.802734375)
+ 	size: 111.0786361694336
+ 	angle: 117.37893676757812
+ 	response: 0.0001585246791364625
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64270>   -->index: 482 
+	pt: (283.0713806152344, 720.2195434570312)
+ 	size: 111.0786361694336
+ 	angle: 280.2447814941406
+ 	response: 0.00024295528419315815
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e642a0>   -->index: 483 
+	pt: (272.3218078613281, 702.3036499023438)
+ 	size: 111.0786361694336
+ 	angle: 324.7904968261719
+ 	response: 0.00029097122023813426
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e642d0>   -->index: 484 
+	pt: (523.14453125, 290.23773193359375)
+ 	size: 111.0786361694336
+ 	angle: 72.27141571044922
+ 	response: 0.00014736312732566148
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64300>   -->index: 485 
+	pt: (279.4881896972656, 820.5486450195312)
+ 	size: 111.0786361694336
+ 	angle: 190.00839233398438
+ 	response: 0.00021018733968958259
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64330>   -->index: 486 
+	pt: (648.555908203125, 415.64910888671875)
+ 	size: 111.0786361694336
+ 	angle: 13.298602104187012
+ 	response: 0.0001950323930941522
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64360>   -->index: 487 
+	pt: (537.477294921875, 304.5704650878906)
+ 	size: 111.0786361694336
+ 	angle: 315.59686279296875
+ 	response: 0.00011095564696006477
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64390>   -->index: 488 
+	pt: (300.9872741699219, 369.0677185058594)
+ 	size: 111.0786361694336
+ 	angle: 126.20440673828125
+ 	response: 0.0002453882771078497
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e643c0>   -->index: 489 
+	pt: (268.7386474609375, 816.9654541015625)
+ 	size: 111.0786361694336
+ 	angle: 190.0268096923828
+ 	response: 0.00018849670595955104
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e643f0>   -->index: 490 
+	pt: (670.0549926757812, 551.8099975585938)
+ 	size: 111.0786361694336
+ 	angle: 29.45701026916504
+ 	response: 0.0002486610028427094
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64420>   -->index: 491 
+	pt: (530.3109130859375, 290.23773193359375)
+ 	size: 111.0786361694336
+ 	angle: 22.574798583984375
+ 	response: 0.00020741234766319394
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64450>   -->index: 492 
+	pt: (379.8172912597656, 480.1463623046875)
+ 	size: 111.0786361694336
+ 	angle: 236.03260803222656
+ 	response: 0.00028216306236572564
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64480>   -->index: 493 
+	pt: (394.1499938964844, 591.2250366210938)
+ 	size: 111.0786361694336
+ 	angle: 172.54827880859375
+ 	response: 0.00019360677106305957
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e644b0>   -->index: 494 
+	pt: (648.555908203125, 404.8995361328125)
+ 	size: 111.0786361694336
+ 	angle: 9.257586479187012
+ 	response: 0.00024777650833129883
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e644e0>   -->index: 495 
+	pt: (691.5540771484375, 369.0677185058594)
+ 	size: 111.0786361694336
+ 	angle: 326.08831787109375
+ 	response: 9.776470687938854e-05
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64510>   -->index: 496 
+	pt: (691.5540771484375, 333.23590087890625)
+ 	size: 111.0786361694336
+ 	angle: 316.1134948730469
+ 	response: 0.00010264639422530308
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64540>   -->index: 497 
+	pt: (376.2341003417969, 419.2322692871094)
+ 	size: 111.0786361694336
+ 	angle: 79.71978759765625
+ 	response: 9.765894355950877e-05
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e64570>   -->index: 498 
+	pt: (229.32363891601562, 408.48272705078125)
+ 	size: 111.0786361694336
+ 	angle: 268.4833984375
+ 	response: 9.551904076943174e-05
+ 	octave: 7
+ 	class_id: -1
+
+< cv2.KeyPoint 0x7f7da1e645a0>   -->index: 499 
+	pt: (326.0695495605469, 401.3163757324219)
+ 	size: 111.0786361694336
+ 	angle: 139.11878967285156
+ 	response: 8.433944458374754e-05
+ 	octave: 7
+ 	class_id: -1
+

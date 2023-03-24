@@ -1,6 +1,6 @@
 # 图像相似度评估
 
-![platform](https://img.shields.io/badge/platform-windows%20x86__64-blue) ![language](https://img.shields.io/badge/labguage-%20python-blue)
+![platform](https://img.shields.io/badge/platform-windows%20x86__64-blue) ![language](https://img.shields.io/badge/language-python-blue)
 
 本仓库提供基于ORB特征点的图像相似度估计。
 

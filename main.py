@@ -35,22 +35,22 @@ assert args.samplePath.split(".")[-1] in ['png', 'bmp', 'jpg', 'jpeg', 'tiff']
 assert args.queryPath[-1] == "\\"
 assert args.outputPath[-1] == "\\"
 
-# 读取图片
+# load images
 sampleImageColorOrigin, sampleImageColorResize, sampleImageGray, queryImagesColorOrigin, queryImagesColorResize, queryImagesGray, numOfQuery, queryFileNames = imageLoad(args.samplePath, args.queryPath)
 
-# 初始化ORB检测对象
+# initialize ORB detector
 orb = cv2.ORB_create()
 
-# 初始化FLANN匹配对象
+# initialize FLANN matcher
 FLANN_INDEX_KDTREE=0
 indexParams=dict(algorithm=FLANN_INDEX_KDTREE,trees=5)
 searchParams=dict(checks=50)
 flann=cv2.FlannBasedMatcher(indexParams,searchParams)
 
-# 检测与匹配
+# detect and match
 keyPointsSample, descriptorsSample, keyPointsQuery, descriptorsQuery, matchesList, goodMatchesList = detectAndMatch(orb, flann, sampleImageGray, queryImagesGray, numOfQuery)
 
-# 计算相似度
+# caculate similarity
 similarity = []
 for i in range(numOfQuery):
     tempSimilarity = caculateSimilarity(goodMatchesList[i], matchesList[i])
@@ -61,11 +61,11 @@ bestIndex = similarity.index(maxSimilarity)
 # print(bestIndex)
 # print(similarity)
 
-# 创建输出目录
+# make dirs for outputs
 outputPath = args.outputPath
 makeDirs(outputPath)
 
-# 保存缩放图片
+# save resized image
 resizePath = outputPath + "resize\\"
 sampleImageName = args.samplePath.split("\\")[-1].split('.')[-2]
 cv2.imwrite(resizePath + sampleImageName + "resize" + ".png", cv2.cvtColor(sampleImageColorResize, cv2.COLOR_RGB2BGR))
@@ -75,20 +75,18 @@ for i in range(numOfQuery):
     cv2.imwrite(resizePath + queryName + "Resize" + ".png", cv2.cvtColor(queryImagesColorResize[i],cv2.COLOR_RGB2BGR))
     queryImageNames.append(queryName)
 
-# 保存最佳匹配和最高相似度
+# save best matching image and top similarity
 cv2.imwrite(outputPath + "BestMatch.png", queryImagesColorOrigin[bestIndex])
 saveSimilarity(outputPath, maxSimilarity)
 
-# 显示关键点和匹配情况
-## 绘制关键点
+# visualize keypoints and matches
 figureNameKeypoints = "FinalKeypointsWithSimilarity"
 plotKeypoints(sampleImageColorResize, keyPointsSample, queryImagesColorResize, keyPointsQuery, similarity, numOfQuery, outputPath, figureNameKeypoints,isShow=args.isShow)
 
-# 显示匹配点对和相似度
 figureNameMatches = "FinalMatchesWithSimilarity"
 plotMatches(sampleImageColorResize,keyPointsSample, queryImagesColorResize, keyPointsQuery, similarity, goodMatchesList, numOfQuery, outputPath, figureNameMatches, isShow=args.isShow)
 
-# 序列化关键点和描述子
+# save keypoints and descriptors
 saveKeypointsAndDescriptors(
                             keypoints=keyPointsSample,
                             kName="keyPoints" + sampleImageName,

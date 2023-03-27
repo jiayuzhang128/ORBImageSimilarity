@@ -1,16 +1,16 @@
-# 图像相似度评估
+# Image similarity estimation
 
 ![platform](https://img.shields.io/badge/platform-windows%20x86__64-blue) ![language](https://img.shields.io/badge/language-python-blue)
 
 本仓库提供基于ORB特征点的图像相似度估计。
 
-中文|[English](./README_en.md)
+English|[中文](./README.md)
 
-## 技术路线图
+## Roadmap
 
-![roadmap](./images/roadmap.png)
+![roadmap](./images/roadmap_english.png)
 
-## 依赖
+## Dependency
 
 + python 3.7.16
 
@@ -22,17 +22,17 @@
 
 + pyinstaller 5.9.0
 
-> 测试平台：Window10 x86_64
+> test platform：Window10 x86_64
 
-## 结果
+## Results
 
-### 样本图片
+### sample image
 
 |sample1|sample2|sample3|sample4|
 |---|---|---|---|
 |<img src="./data/sample/sample1.png" height="150"/>|<img src="./data/sample/sample2.png" height="150"/>|<img src="./data/sample/sample3.png" height="150"/>|<img src="./data/sample/sample4.png" height="150"/>|
 
-### 查询图片
+### query image
 
 |col1|col2|col3|col4
 |---|---|---|---|
@@ -42,23 +42,23 @@
 
 ### 结果与保存
 
-> 以sample4为例
+> Take sample4 as an example
 
-+ 匹配图
++ matches
 
 ![matches](output/FinalMatchesWithSimilarity.png)
 
-+ 关键点
++ keypoints
 
 ![keypoints](output/FinalKeypointsWithSimilarity.png)
 
-+ 最佳匹配
++ best match
 
 |sample|query|simlarity(%)|
 |---|---|---|
 |<img src="./data/sample/sample4.png" height="150"/>|<img src="./data/query/painting1.png" height="150"/>|27.00|
 
-+ 结果保存在指定的输出路径中，结构如下：
++ The result is saved in the specified output path with the following structure:
 
 ```text
 ├─descriptors
@@ -66,48 +66,46 @@
 └─resize
 ```
 
-## 用法
+## Usage
 
-拥有python运行环境，推荐`py脚本`方式，否则推荐`exe`方式
+If you already have python enviroment， run by `py script` is recommended，otherwise run by `exe` is recommend.
 
-### 使用脚本
+### using py scripts
 
-+ 终端/cmd进入项目目录后执行：
++ terminal/cmd navigate into project directory, then execute：
 
 ```bat
 python .\main.py -s .\data\sample\sample4.png -q .\data\query\ -o .\output\
 ```
 
-+ 查看帮助：
++ check help：
 
 ```bat
 .\main.py -h
 ```
 
-### 使用exe
+### using exe
 
-+ 终端/cmd进入app目录执行:
++ terminal/cmd navigate into `app` and execute:
 
 ```bat
 .\imageSim.exe -s ..\data\sample\sample4.png -q ..\data\query\ -o ..\output\
 ```
 
-或者直接根目录下运行`run.bat`文件
+or directly run `run.bat` in terminal/cmd
 
 ```bat
 .\run.bat
 ```
 
-> 或者直接**双击运行**
+## Package py scripts using pyinstaller（optional）
 
-## 使用pyinstaller封装py脚本（可选）
+If you need to modify the py script file, you need to use the pyinstaller package when packaging it again.
 
-若需要修改py脚本文件，再次封装时，需要使用pyinstaller包
+[pyinstaller docs](https://pyinstaller.org/en/stable/index.html)
 
-[pyinstaller文档](https://pyinstaller.org/en/stable/index.html)
+After modification, run the 'createEXE.bat' file directly to generate the 'app' folder in the directory where the py script is located. The exe file is stored in 'app'.
 
-修改完成后直接运行`createEXE.bat`文件即可在py脚本所在目录生成`app`文件夹，exe文件存放在`app`中
+## Acknowledgements
 
-## 感谢
-
-本项目参考了[SIFTImageSimilarity](https://github.com/adumrewal/SIFTImageSimilarity)和[Feature-Detection-and-Matching](https://github.com/whoisraibolt/Feature-Detection-and-Matching)感谢他们优秀的工作。
+Thanks to adumrewal and whoisraibolt for opening source of their excellent work [SIFTImageSimilarity](https://github.com/adumrewal/SIFTImageSimilarity)and [Feature-Detection-and-Matching](https://github.com/whoisraibolt/Feature-Detection-and-Matching).
